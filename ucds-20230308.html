@@ -34,18 +34,69 @@ Amsterdam/Zurich, 8 March 2023
 <p><a href="https://knowledgepixels.com">https://knowledgepixels.com</a></p>
 </section>
 
+<section data-markdown>
+### ... that means:
+- less teaching, supervision, etc.
+- in general fewer meetings (for now...)
+- much more coding and technical work
+- more legal and admin work (mostly by the other co-founder)
+- we need a business plan, which we don't have yet... :)
+</section>
+
 <section>
+<h3>Nanobench is now called</h3>
 <img src="https://nanodash.petapico.org/images/logo.svg" alt="Nanodash logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
 <p><a target="_blank" href="https://nanodash.petapico.org/">Nanodash</a> is a web tool to browse and publish <strong>nanopublications</strong> with (relatively) user-friendly web forms.</p>
 </section>
 
-<section data-markdown>
-### ...
+<section>
+<p>test</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/json2html/2.1.0/json2html.min.js"></script>
+<script>
+        
+var getJson = function(url, callback) {
+  var request = new XMLHttpRequest();
+  request.open('GET', url, true);
+  request.responseType = 'json';
+  request.onload = function() {
+    var status = request.status;
+    if (status === 200) {
+      callback(null, request.response);
+    } else {
+      callback(status, request.response);
+    }
+  };
+  request.send();
+};
+
+var populate = function(elementId, apiUrl, template) {
+  getJson(apiUrl,
+    function(error, response) {
+      if (error == null) {
+        document.getElementById(elementId).innerHTML = json2html.render(response, template);
+      } else {
+        document.getElementById(elementId).innerHTML = "<li><em>error: something went wrong with calling the API</en></li>";
+      }
+    }
+  );
+};
+
+</script>
+<ul id="list" style="font-size: 80%;">
+<li><em>retrieving newer versions...</em></li>
+</ul>
+<script>
+populate("list",
+  'https://grlc.io/api-git/tkuhn/nanopub-queries/ds-editors',
+  {'<>':'li','html':'<code><a href="${id}">${id}</a></code>'});
+</script>
+
 </section>
 
 <section data-markdown>
 ## Thank you for Your Attention!
 </section>
+
 
 </div>
 </div>
