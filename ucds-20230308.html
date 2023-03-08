@@ -12,6 +12,39 @@
 <link rel="stylesheet" href="reveal-4.4.0/dist/reset.css">
 <link rel="stylesheet" href="reveal-4.4.0/dist/reveal.css">
 <link rel="stylesheet" href="reveal-4.4.0/dist/theme/kpxl.css" id="theme">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/json2html/2.1.0/json2html.min.js"></script>
+<script>
+        
+var getJson = function(url, callback) {
+  var request = new XMLHttpRequest();
+  request.open('GET', url, true);
+  request.responseType = 'json';
+  request.onload = function() {
+    var status = request.status;
+    if (status === 200) {
+      callback(null, request.response);
+    } else {
+      callback(status, request.response);
+    }
+  };
+  request.send();
+};
+
+var populate = function(elementId, apiUrl, template) {
+  getJson(apiUrl,
+    function(error, response) {
+      if (error == null) {
+        document.getElementById(elementId).innerHTML = json2html.render(response, template);
+      } else {
+        document.getElementById(elementId).innerHTML = "<li><em>error: something went wrong with calling the API</en></li>";
+      }
+    }
+  );
+};
+
+</script>
+
 </head>
 
 <body>
@@ -50,51 +83,16 @@ Amsterdam/Zurich, 8 March 2023
 </section>
 
 <section>
-<p>test</p>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/json2html/2.1.0/json2html.min.js"></script>
-<script>
-        
-var getJson = function(url, callback) {
-  var request = new XMLHttpRequest();
-  request.open('GET', url, true);
-  request.responseType = 'json';
-  request.onload = function() {
-    var status = request.status;
-    if (status === 200) {
-      callback(null, request.response);
-    } else {
-      callback(status, request.response);
-    }
-  };
-  request.send();
-};
-
-var populate = function(elementId, apiUrl, template) {
-  getJson(apiUrl,
-    function(error, response) {
-      if (error == null) {
-        document.getElementById(elementId).innerHTML = json2html.render(response, template);
-      } else {
-        document.getElementById(elementId).innerHTML = "<li><em>error: something went wrong with calling the API</en></li>";
-      }
-    }
-  );
-};
-
-</script>
-<ul id="list" style="font-size: 80%;">
-<li><em>retrieving newer versions...</em></li>
+<h3>Participants of this talk</h3>
+<ul id="list-of-participants" style="font-size: 80%;">
+<li><em>retrieving...</em></li>
 </ul>
 <script>
-populate("list",
-  'https://grlc.io/api-git/tkuhn/nanopub-queries/ds-editors',
-  {'<>':'li','html':'<code><a href="${id}">${id}</a></code>'});
+populate("list-of-participants",
+  'https://grlc.petapico.org/api-git/tkuhn/nanopub-queries/ucds-20230308-participants',
+  {'<>':'li','html':'<code><a href="${id}">${person}</a></code>'});
 </script>
-
-</section>
-
-<section data-markdown>
-## Thank you for Your Attention!
+<p style="font-size: 80%;">Add your name to the list:<br><a href="https://tinyurl.com/I-participate-in-ucds-20230308">https://tinyurl.com/I-participate-in-ucds-20230308</a></p>
 </section>
 
 
