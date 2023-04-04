@@ -2,6 +2,7 @@
  * Based on white theme for reveal.js by Hakim El Hattab, http://hakim.se
  */
 
+
 @font-face {
   font-family: "Inter";
   src: url("./fonts/inter/Inter-Light.woff2") format("woff2");
@@ -373,4 +374,13 @@
   .backgrounds {
     background-color: var(--r-background-color);
   }
+}
+
+/* For multi-column layouts: */
+
+.container{
+  display: flex;
+}
+.col {
+  flex: 1;
 }
