@@ -9,9 +9,9 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="reveal-4.4.0/dist/reset.css">
-<link rel="stylesheet" href="reveal-4.4.0/dist/reveal.css">
-<link rel="stylesheet" href="reveal-4.4.0/dist/theme/kpxl.css" id="theme">
+<link rel="stylesheet" href="../_common/reveal-4.4.0/dist/reset.css">
+<link rel="stylesheet" href="../_common/reveal-4.4.0/dist/reveal.css">
+<link rel="stylesheet" href="kpxl.css" id="theme">
 </head>
 
 <body>
@@ -19,10 +19,8 @@
 <div class="slides">
 
 <section>
-<a href="https://knowledgepixels.com">
 <img src="https://knowledgepixels.com/assets/img/knowledge-pixels-logo-rgb.svg" alt="Knowledge Pixels logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
-</a>
-<h3>Slide Demo</h3>
+<h3>Slide Template</h3>
 <p>
 <small>Based on <a href="https://github.com/hakimel/reveal.js">reveal.js</a></small>
 </p>
@@ -33,7 +31,6 @@
 <p>Text</p>
 </section>
 
-
 <section data-markdown>
 ## Markdown Slide
 
@@ -43,12 +40,24 @@ Text:
 - b
 </section>
 
+<section>
+<h2>two-column slide</h2>
+<div class="container">
+<div class="col">
+<h4>Column 1</h4>
+</div>
+<div class="col">
+<h4>Column 2</h4>
+</div>
+</div>
+</section>
+
 </div>
 </div>
 
-<script src="reveal-4.4.0/dist/reveal.js"></script>
-<script src="reveal-4.4.0/plugin/markdown/markdown.js"></script>
-<script>Reveal.initialize({ controls: true, progress: true, center: true, hash: true, plugins: [ RevealMarkdown ]	});</script>
+<script src="../_common/reveal-4.4.0/dist/reveal.js"></script>
+<script src="../_common/reveal-4.4.0/plugin/markdown/markdown.js"></script>
+<script>Reveal.initialize({ width: 800, height: 450, margin: 0.1, controls: true, progress: true, center: true, hash: true, plugins: [ RevealMarkdown ]	});</script>
 
 </body>
 </html>

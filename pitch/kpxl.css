@@ -51,9 +51,9 @@
   --r-heading3-size: 1.3em;
   --r-heading4-size: 1em;
   --r-code-font: Martian, monospace;
-  --r-link-color: #2a76dd;
-  --r-link-color-dark: #1a53a1;
-  --r-link-color-hover: #6ca0e8;
+  --r-link-color: #db0b5b;
+  --r-link-color-dark: #db0b5b;
+  --r-link-color-hover: #330315;
   --r-selection-background-color: #98bdef;
   --r-selection-color: #fff;
 }
@@ -150,8 +150,8 @@
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
-  max-height: 95%;
+  max-width: 90%;
+  max-height: 90%;
 }
 
 .reveal strong,
