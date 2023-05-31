@@ -160,7 +160,8 @@
 }
 
 .reveal em {
-  font-style: italic;
+  color: var(--r-link-color);
+  /* font-style: italic; */
 }
 
 .reveal ol,
