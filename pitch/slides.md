@@ -10,7 +10,7 @@
 
 ## Problem
 
-- Scientific knowledge and discourse are scattered, unstructured, and not interoperable
+- Scientific knowledge and discourse are _unstructured_ (meta-analyses/review papers need a lot of manual work), _disconnected_ (platforms with data silos), and _time-consuming_ (months from discovery to publication)
 - Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
 - _Science is slowed down by this lack of efficient communication_
 
