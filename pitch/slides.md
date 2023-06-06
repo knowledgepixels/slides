@@ -11,9 +11,9 @@
 ## Problem
 
 - **Publishing of scientific knowledge and discourse is:**
-  - _unstructured_ (no automated aggregations)
-  - _disconnected_ (platforms with data silos)
   - _slow_ (months from discovery to publication)
+  - _disconnected_ (platforms with data silos)
+  - _unstructured_ (no automated aggregations)
 - **Consequences:**
   - _Researchers_ waste time and energy
   - _Society_ wastes money
@@ -125,15 +125,33 @@ Global spending on science communication/technology:
 
 ---
 
-## Roadmap
+## Roadmap Phases 1 & 2
 
-...
+_Phase 1 "prove value" (2023)_
+
+- Nanodash Beta launch **[done]**
+- Attract ~5 small communities
+- Win projects/consortia partners / innovation grants
+
+_Phase 2 "get market-ready" (2023/24)_
+
+- Make Nanodash user-friendly and market-ready
+- Complete pre-seed investment round
 
 ---
 
-## Go-to Market Plans
+## Roadmap Phases 3 & 4
+_Phase 3 "win communities" (2024/25)_
 
-...
+- Gain large communities (> 100 users)
+- Launch freemium plans
+- First subscriptions by publishers
+
+_Phase 4 "expand" (2025+)_
+
+- Push expansion with marketing
+- Scale up ecosystem
+- Grow revenues
 
 ---
 
@@ -149,8 +167,7 @@ Global spending on science communication/technology:
 
 - Technology leadership (nanopublications, FAIR)
 - Experience of 10+ years of research on this approach
-- Nanodash tool with unparalleled semantic publishing features
-- ...
+- Unparalleled semantic publishing features of Nanodash
 
 ---
 
