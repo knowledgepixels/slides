@@ -66,33 +66,33 @@ Global spending on science communication/technology:
 ---
 
 ## Business Model
-## (Short-Term)
-
-- **Partners:**
-  - Funds from research projects and innovation grants
-  - _Value:_ Help research communities prepare their future communication technology
-- **Researchers / Communities / Projects:**
-  - Free use of Nanodash
-  - _Value:_ Fast, precise, and trustworthy knowledge updates; visibility and recognition in community
-
----
-
-## Business Model
-## (Medium-Term):
 ### Multi-Sided Platform
 
-- **Researchers / Communities / Projects:**
+- **Researchers / Communities / Projects / Institutions:**
   - Freemium model
-  - _+ Value:_ credit for community-driven datasets; insight from precise aggregations and analyses
+  - _Value:_ Fast, precise, and trustworthy knowledge updates; visibility and recognition in community; credit for community-driven datasets; insight from precise aggregations and analyses
 - **Publishers / Journals:**
   - Subscription model
   - _Value:_ Close connection to research communities; getting good reviewers/papers, visibility, reputation, FAIR
 
 ---
 
-## Long-Term Value:
+## Medium-Term Value
 
-- **Researchers / Communities / Projects:**
+- **Researchers / Communities / Projects / Institutions:**
+  - Fast, precise, and trustworthy knowledge updates
+  - Visibility and recognition in community
+  - Credit for community-driven datasets
+  - Insight from precise aggregations and analyses
+- **Publishers / Journals:**
+  - Close connection to research communities
+  - Getting good reviewers/papers, visibility, reputation
+
+---
+
+## Long-Term Value
+
+- **Researchers / Communities / Projects / Institutions:**
   - Time saved for getting/staying up-to-date in scientific field
   - AI-powered precise and trustworthy assistance with hypotheses, studies, interpretations, etc.
 - **Publishers / Journals:**
@@ -181,6 +181,17 @@ for software development and research
 ## End of Pitch
 
 (extra slides follow)
+
+---
+
+## Short-Term Business Model
+
+- **Partners:**
+  - Funds from research projects and innovation grants
+  - _Value:_ Help research communities prepare their future communication technology
+- **Researchers / Communities / Projects / Institutions:**
+  - Free use of Nanodash
+  - _Value:_ Fast, precise, and trustworthy knowledge updates; visibility and recognition in community
 
 ---
 
