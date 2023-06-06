@@ -10,9 +10,18 @@
 
 ## Problem
 
-- Scientific knowledge and discourse are _unstructured_ (meta-analyses/review papers need a lot of manual work), _disconnected_ (platforms with data silos), and _time-consuming_ (months from discovery to publication)
+- **Publishing of scientific knowledge and discourse is:**
+  - _unstructured_ (no automated aggregations)
+  - _disconnected_ (platforms with data silos)
+  - _slow_ (months from discovery to publication)
+- **Consequences:**
+  - _Researchers_ waste time and energy
+  - _Society_ wastes money
+  - _Everybody_ lacks insights
+<!--
 - Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
 - _Science is slowed down by this lack of efficient communication_
+-->
 
 ---
 
