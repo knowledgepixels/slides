@@ -69,11 +69,11 @@ Global spending on science communication/technology:
 ### Multi-Sided Platform
 
 - **Researchers / Communities / Projects / Institutions:**
-  - Freemium model
-  - _Value:_ Fast, precise, and trustworthy knowledge updates; visibility and recognition in community; credit for community-driven datasets; insight from precise aggregations and analyses
+  - _Freemium model_
+  - Free in the short term
 - **Publishers / Journals:**
-  - Subscription model
-  - _Value:_ Close connection to research communities; getting good reviewers/papers, visibility, reputation, FAIR
+  - _Subscription model_
+  - Medium term
 
 ---
 
