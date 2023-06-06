@@ -17,7 +17,7 @@
 - **Consequences:**
   - _Researchers_ waste time and energy
   - _Society_ wastes money
-  - _Everybody_ lacks insights
+  - _Everybody_ lacks scientific insights
 <!--
 - Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
 - _Science is slowed down by this lack of efficient communication_
@@ -46,7 +46,12 @@ Universal approach for all kinds of scholarly knowledge, based on small and prov
 
 ## Ecosystem
 
-...
+We are building a new nanopublication-based ecosystem for knowledge sharing:
+
+- _Decentralized:_ based on a global network of services
+- _Open:_ everybody can join, and all data is open
+- _Reliable:_ services are redundant and content is cryptographically verified
+- _Anti-Silo:_ data is accessed as a single global knowledge graph
 
 ---
 
@@ -114,7 +119,7 @@ Global spending on science communication/technology:
 
 ## Plans and Pricing
 
-- **Nanodash for researchers (with group discounts):**
+- **Nanodash for researchers (with group/institution discounts):**
   - Free
   - Standard: $200/y/user
   - Pro: $400/y/user
