@@ -11,9 +11,10 @@
 ## Problem
 
 - **Publishing of scientific knowledge and discourse is:**
-  - _slow_ (months from discovery to publication)
-  - _disconnected_ (platforms with data silos)
-  - _unstructured_ (no automated aggregations)
+  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
+  	or _unrewarded_ (social media / blogs)
+  - _disconnected_ (all major communication platforms used by researchers are data silos)  <!--  ResearchGate, Academia.edu, LinkedIn, Twitter -->
+  - _unstructured_ (narratives instead of data points)
 - **Consequences:**
   - _Researchers_ waste time and energy
   - _Society_ wastes money
