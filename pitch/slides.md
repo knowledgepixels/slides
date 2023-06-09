@@ -163,7 +163,7 @@ _Phase 4 "expand" (2025+)_
 
 ## Potential Outcomes
 
-- _**Best-case scenario:**_ Our ecosystem revolutionizes scientific communication and we dominate the market this creates, with upwards of $100M of yearly revenue
+- _**Best-case scenario:**_ Our ecosystem revolutionizes scientific communication and we dominate this new market, with upwards of $100M of yearly revenue
 - _**Realistic success scenario:**_ Our ecosystem is established in major scientific domains and we occupy a large share of the created market, with around $10M of yearly revenue
 - **Worst-case scenario:** We keep providing semantic publishing services and expertise to innovative publishers like IOS Press and Pensoft
 
