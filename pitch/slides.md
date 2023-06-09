@@ -61,7 +61,7 @@ We are building a new nanopublication-based ecosystem for knowledge sharing:
 Platform to publish and consume nanopublications, and to interact with scientific communities
 
 - _Nanopublication feeds_ (like Twitter, but machine-interpretable)
-- _Community forum_ (like Facebook or LinkedIn for research communities)
+- _Community forum_ (like LinkedIn or ResearchGate, but with research community views)
 - _Domain-level knowledge base_ (like Wikipedia, but machine-interpretable and directly from the researchers)
 - _Bi-directional integration with journals:_ nanopublications are added to submissions / accepted articles are annotated with nanopublications
 
@@ -166,6 +166,17 @@ _Phase 4 "expand" (2025+)_
 - _**Best-case scenario:**_ Our ecosystem revolutionizes scientific communication and we dominate this new market, with upwards of $100M of yearly revenue
 - _**Realistic success scenario:**_ Our ecosystem is established in major scientific domains and we occupy a large share of the created market, with around $10M of yearly revenue
 - **Worst-case scenario:** We keep providing semantic publishing services and expertise to innovative publishers like IOS Press and Pensoft
+
+---
+
+## Competition Analysis
+
+- ResearchGate, Academia.edu: _scholarly, social, knowledge (narrative)_
+- LinkedIn, Twitter, Mastodon: _general, social, knowledge (narrative)_
+- Wikipedia: _general, knowledge (narrative)_
+- Wikidata: _general, knowledge (structured)_
+- Journal systems: _scholarly, knowledge (narrative)_
+- Nanodash: _general, social (communities), knowledge (structured)_
 
 ---
 
