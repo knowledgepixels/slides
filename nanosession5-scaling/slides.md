@@ -89,6 +89,12 @@ Barend Mons (2016): _"we are talking about 10<sup>14</sup> nanopublications ... 
 
 ---
 
+## Knowledge Space
+
+- ...
+
+---
+
 ## Short run
 
 1. Always consider long-run performance:
