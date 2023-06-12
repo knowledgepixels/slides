@@ -175,57 +175,93 @@ _Phase 4 "expand" (2025+)_
 <table align="center">
 <tr>
   <th></th>
-  <th>ResearchGate,<br>Academia.edu</th>
-  <th>LinkedIn,<br>Twitter,<br>Mastodon</th>
-  <th>Wikipedia,<br>(Wikidata)</th>
-  <th>Journal<br>systems</th>
-  <th>Discord,<br>Discourse,<br>Slack, etc.</th>
+  <th>ResearchGate, Academia.edu</th>
+  <th>LinkedIn, Twitter</th>
+  <th>Mastodon</th>
+  <th>Wikidata</th>
+  <th>StackOverflow, Discourse, etc.</th>
+  <th>Journal systems</th>
   <th>Nanodash</th>
 </tr>
 <tr>
-  <th>domain</th>
-  <td>scholarly</td>
-  <td>general</td>
-  <td>general</td>
-  <td>scholarly</td>
-  <td>general</td>
-  <td>scholarly<br>/general</td>
+  <th>social network</th>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
 </tr>
 <tr>
-  <th>social<br>network</th>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
+  <th>community sites</th>
   <td></td>
   <td></td>
   <td></td>
-  <td><em><strong>X</strong></em></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
 </tr>
 <tr>
-  <th>community<br>sites</th>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
+  <th>narrative knowledge</th>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
 </tr>
 <tr>
-  <th>knowledge<br>(narrative)</th>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
-  <td><em><strong>X</strong></em></td>
+  <th>structured knowledge</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
 </tr>
 <tr>
-  <th>knowledge<br>(structured)</th>
+  <th>peer review aware</th>
+  <td><em class="check"><strong>~</strong></em></td>
   <td></td>
   <td></td>
-  <td>(<em><strong>X</strong></em>)</td>
   <td></td>
   <td></td>
-  <td><em><strong>X</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>open</th>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>~</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>FAIR</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td><em class="check"><strong>~</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>decentralized</th>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
 </tr>
 </table>
 </small>

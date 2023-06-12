@@ -280,6 +280,11 @@
   text-align: center;
 }
 
+.reveal em.check {
+  color: #0bab0b;
+  font-size: 150%;
+}
+
 .reveal table th[align=center],
 .reveal table td[align=center] {
   text-align: center;
