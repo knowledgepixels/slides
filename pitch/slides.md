@@ -180,6 +180,60 @@ _Phase 4 "expand" (2025+)_
 
 ---
 
+## Competition Analysis
+
+<small>
+<table>
+<tr>
+  <th></th>
+  <th>ResearchGate,<br>Academia.edu</th>
+  <th>LinkedIn,<br>Twitter,<br>Mastodon</th>
+  <th>Wikidata</th>
+  <th>Journal<br>systems</th>
+  <th>Discord,<br>Discourse,<br>Slack, etc.</th>
+  <th>Nanodash</th>
+</tr>
+<tr>
+  <td>social</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>- communities</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>knowledge</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>- structured</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+</small>
+
+---
+
 ## Competitive Advantages
 
 - Technology leadership (nanopublications, FAIR)
