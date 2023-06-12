@@ -171,63 +171,61 @@ _Phase 4 "expand" (2025+)_
 
 ## Competition Analysis
 
-- ResearchGate, Academia.edu: _scholarly, social, knowledge (narrative)_
-- LinkedIn, Twitter, Mastodon: _general, social, knowledge (narrative)_
-- Wikipedia: _general, knowledge (narrative)_
-- Wikidata: _general, knowledge (structured)_
-- Journal systems: _scholarly, knowledge (narrative)_
-- Nanodash: _general, social (communities), knowledge (structured)_
-
----
-
-## Competition Analysis
-
 <small>
-<table>
+<table align="center">
 <tr>
   <th></th>
   <th>ResearchGate,<br>Academia.edu</th>
   <th>LinkedIn,<br>Twitter,<br>Mastodon</th>
-  <th>Wikidata</th>
+  <th>Wikipedia,<br>(Wikidata)</th>
   <th>Journal<br>systems</th>
   <th>Discord,<br>Discourse,<br>Slack, etc.</th>
   <th>Nanodash</th>
 </tr>
 <tr>
-  <td>social</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <th>domain</th>
+  <td>scholarly</td>
+  <td>general</td>
+  <td>general</td>
+  <td>scholarly</td>
+  <td>general</td>
+  <td>scholarly<br>/general</td>
 </tr>
 <tr>
-  <td>- communities</td>
+  <th>social<br>network</th>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td><em><strong>X</strong></em></td>
 </tr>
 <tr>
-  <td>knowledge</td>
+  <th>community<br>sites</th>
   <td></td>
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
 </tr>
 <tr>
-  <td>- structured</td>
+  <th>knowledge<br>(narrative)</th>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
+  <td><em><strong>X</strong></em></td>
+</tr>
+<tr>
+  <th>knowledge<br>(structured)</th>
   <td></td>
   <td></td>
+  <td>(<em><strong>X</strong></em>)</td>
   <td></td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td><em><strong>X</strong></em></td>
 </tr>
 </table>
 </small>

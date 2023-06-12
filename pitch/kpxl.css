@@ -276,6 +276,10 @@
   border-bottom: 1px solid;
 }
 
+.reveal table td {
+  text-align: center;
+}
+
 .reveal table th[align=center],
 .reveal table td[align=center] {
   text-align: center;
