@@ -98,5 +98,5 @@ Barend Mons (2016): _"we are talking about 10<sup>14</sup> nanopublications ... 
    - Fix performance problems where and when they occur
    - Because of 1, there is aways a solution
 3. On the short run, things are slower than what they could be:
-   - That's the price for being ready for the long term
+   - That's the price for being ready for the long run
 
