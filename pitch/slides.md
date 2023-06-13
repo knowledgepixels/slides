@@ -97,7 +97,7 @@ Global spending on science communication/technology:
 - **Researchers / Communities / Projects / Institutions:**
   - Fast, precise, and trustworthy knowledge updates
   - Visibility and recognition in community
-  - Credit for community-driven datasets
+  <!-- - Credit for community-driven datasets -->
   - Insight from precise aggregations and analyses
 - **Publishers / Journals:**
   - Close connection to research communities
