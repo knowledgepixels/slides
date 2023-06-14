@@ -32,7 +32,7 @@ Barend Mons (2016): _"we are talking about 10<sup>14</sup> nanopublications ... 
 - Immutability
 - Breaking down the problem
 - Distribution
-- Redundany
+- Redundancy
 
 ---
 
