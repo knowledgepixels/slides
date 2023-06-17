@@ -176,50 +176,45 @@ _Phase 4 "expand" (2025+)_
 <tr>
   <th></th>
   <th>ResearchGate, Academia.edu</th>
-  <th>LinkedIn, Twitter</th>
-  <th>Mastodon</th>
+  <th>LinkedIn, Twitter, Mastodon</th>
   <th>Wikidata</th>
   <th>StackOverflow, Discourse, etc.</th>
   <th>Journal systems</th>
   <th>Nanodash</th>
 </tr>
 <tr>
-  <th>social network</th>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-</tr>
-<tr>
-  <th>community sites</th>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-</tr>
-<tr>
-  <th>narrative knowledge</th>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-</tr>
-<tr>
   <th>structured knowledge</th>
   <td></td>
   <td></td>
-  <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
   <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>fast publishing</th>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>social network</th>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>trusted communities</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
   <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
 </tr>
@@ -229,38 +224,7 @@ _Phase 4 "expand" (2025+)_
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-</tr>
-<tr>
-  <th>open</th>
-  <td></td>
-  <td></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td><em class="check"><strong>~</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-</tr>
-<tr>
-  <th>FAIR</th>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td></td>
-  <td><em class="check"><strong>~</strong></em></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-</tr>
-<tr>
-  <th>decentralized</th>
-  <td></td>
-  <td></td>
-  <td><em class="check"><strong>✓</strong></em></td>
-  <td></td>
-  <td></td>
-  <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
 </tr>
 </table>
