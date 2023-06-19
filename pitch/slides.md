@@ -12,7 +12,7 @@
 
 - **Publishing of scientific knowledge and discourse is:**
   - _unstructured_ (narratives instead of knowledge graphs)
-  - _disconnected_ (all major communication platforms used by researchers are data silos)  <!--  ResearchGate, Academia.edu, LinkedIn, Twitter -->
+  - _disconnected_ (platforms only know about own content)  <!-- all major communication platforms used by researchers are data silos:  ResearchGate, Academia.edu, LinkedIn, Twitter -->
   - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
   	or _untrusted/unrewarded_ (blogs/social)
 - **Consequences:**
