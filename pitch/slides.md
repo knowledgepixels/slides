@@ -68,13 +68,13 @@
 
 ## Product: Nanodash
 
-Platform to publish and consume nanopublications, and to interact with scientific communities
+Platform to publish and consume nanopublications via the ecosystem, and to interact with scientific communities:
 
 - _Knowledge base_ ("Wikidata for researchers")
 - _Update feeds_ ("Twitter with structured content")
 - _Social network_ ("LinkedIn for researchers")
 - _Trusted communities_ (for scientific fields, projects, etc.)
-- _Journal links_ (adding nanopublications to submissions / annotating accepted articles with nanopublications)
+- _Journal connections_ (submissions with nanopublications / accepted articles with nanopublication annotations)
 
 ---
 
