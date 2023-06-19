@@ -55,19 +55,14 @@
 
 ## Technology: Nanopublications
 
-Universal approach for all kinds of scholarly knowledge, based on small and provenance-aware data snippets:
+- Universal: for all kinds of scholarly knowledge
+- Based on small, provenance-aware data snippets:
 
 <img class="stretch" src="knowledge-record.png"/>
 
----
+<br>
 
-## Ecosystem
-
-We are building a new nanopublication-based ecosystem for knowledge sharing:
-
-- _Decentralized:_ based on a global network of services
-- _Open and anti-silo:_ everybody can join, and all data is open and accessed as a single global knowledge graph
-- _Reliable:_ services are redundant and content is cryptographically verified
+- Published via decentralized ecosystem
 
 ---
 
@@ -274,6 +269,16 @@ _Phase 4 "expand" (2025+)_
 ## End of Pitch
 
 (extra slides follow)
+
+---
+
+## Ecosystem
+
+We are building a new nanopublication-based ecosystem for knowledge sharing:
+
+- _Decentralized:_ based on a global network of services
+- _Open and anti-silo:_ everybody can join, and all data is open and accessed as a single global knowledge graph
+- _Reliable:_ services are redundant and content is cryptographically verified
 
 ---
 
