@@ -28,11 +28,28 @@
 
 ## Solution:
 
-### Quick & Rich Knowledge Updates
+### precise, fast, and trustworthy knowledge updates
 
-- _Precise:_ Machine-interpretable due to logic-based representation
-- _Fast:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
-- _Trustworthy:_ Trust through social network and through rich statement-level provenance
+- _Precision:_ Machine-interpretable due to logic-based representation
+- _Speed:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
+- _Trust:_ Trust through social network and through rich statement-level provenance
+
+---
+
+## Value Proposition
+
+- **Researchers / Communities / Projects / Institutions:**
+  - Communication with precision, speed, and trust
+  - Visibility and recognition in communities
+  <!-- - Credit for community-driven datasets -->
+  <!--  - → time saved for staying up-to-date, AI-powered assistance, etc. -->
+- **Publishers / Journals:**
+  - Strong connection to research communities
+  - Getting good papers/reviewers, visibility, reputation
+  <!-- - Role as guardians of scientific communities and data -->
+  <!-- - New economic opportunities in ecosystem -->
+- **Everybody:**
+  - Precise and trustworthy AI-powered reasoning on humanity's knowledge
 
 ---
 
@@ -88,32 +105,6 @@ Global spending on science communication/technology:
 - **Publishers / Journals:**
   - _Subscription model_
   - Medium term
-
----
-
-## Medium-Term Value
-
-- **Researchers / Communities / Projects / Institutions:**
-  - Fast, precise, and trustworthy knowledge updates
-  - Visibility and recognition in community
-  <!-- - Credit for community-driven datasets -->
-  - Insight from precise aggregations and analyses
-- **Publishers / Journals:**
-  - Close connection to research communities
-  - Getting good reviewers/papers, visibility, reputation
-
----
-
-## Long-Term Value
-
-- **Researchers / Communities / Projects / Institutions:**
-  - Time saved for getting/staying up-to-date in scientific field
-  - AI-powered precise and trustworthy assistance with hypotheses, studies, interpretations, etc.
-- **Publishers / Journals:**
-  - Role as guardians of scientific communities and data
-  - Economic opportunities in new ecosystem/market
-- **Everybody:**
-   - _AI-powered formal reasoning on humanity's knowledge_
 
 ---
 
@@ -231,30 +222,38 @@ _Phase 4 "expand" (2025+)_
 
 ---
 
-## Competitive Advantages
-
-- Technology leadership (nanopublications, FAIR)
-- Experience of 10+ years of research on this approach
-- Unparalleled semantic publishing features of Nanodash
-
----
-
 ## The team
 <div class="container"><div class="col">
 
-<img src="https://knowledgepixels.com/assets/img/philipp.jpg"/>
+<img style="width: 40%;" src="https://knowledgepixels.com/assets/img/philipp.jpg"/>
 
 #### Philipp von Essen</h4>
 
-for marketing and business administration
+<div style="font-size: 70%;">
+
+**marketing / business administration**
+
+- 5 years of experience in successful startup launch (republik.ch)
+- track record includes roles as team leader and head of finance
+
+</div>
 
 </div><div class="col">
 
-<img src="https://knowledgepixels.com/assets/img/tobias.jpg"/>
+<img style="width: 40%;" src="https://knowledgepixels.com/assets/img/tobias.jpg"/>
 
 #### Tobias Kuhn
 
-for software development and research
+<div style="font-size: 70%;">
+
+**software development / research**
+
+- co-author of FAIR principles
+- nanopublication technology leader
+- Nanodash developer
+- 12 years of research experience
+
+</div>
 
 </div></div>
 
