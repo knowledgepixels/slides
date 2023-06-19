@@ -11,10 +11,10 @@
 ## Problem
 
 - **Publishing of scientific knowledge and discourse is:**
-  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
-  	or _unrewarded_ (social media / blogs)
+  - _unstructured_ (narratives instead of knowledge graphs)
   - _disconnected_ (all major communication platforms used by researchers are data silos)  <!--  ResearchGate, Academia.edu, LinkedIn, Twitter -->
-  - _unstructured_ (narratives instead of data points)
+  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
+  	or _untrusted/unrewarded_ (blogs/social)
 - **Consequences:**
   - _Researchers_ waste time and energy
   - _Society_ wastes money
@@ -33,7 +33,6 @@
 - _Precise:_ Machine-interpretable due to logic-based representation
 - _Fast:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
 - _Trustworthy:_ Trust through social network and through rich statement-level provenance
-- _Universal:_ Can capture findings, studies, researchers, arguments, opinions, datasets, etc. of any domain
 
 ---
 
@@ -50,9 +49,8 @@ Universal approach for all kinds of scholarly knowledge, based on small and prov
 We are building a new nanopublication-based ecosystem for knowledge sharing:
 
 - _Decentralized:_ based on a global network of services
-- _Open:_ everybody can join, and all data is open
+- _Open and anti-silo:_ everybody can join, and all data is open and accessed as a single global knowledge graph
 - _Reliable:_ services are redundant and content is cryptographically verified
-- _Anti-Silo:_ data is accessed as a single global knowledge graph
 
 ---
 
@@ -60,10 +58,11 @@ We are building a new nanopublication-based ecosystem for knowledge sharing:
 
 Platform to publish and consume nanopublications, and to interact with scientific communities
 
-- _Nanopublication feeds_ (like Twitter, but machine-interpretable)
-- _Community forum_ (like LinkedIn or ResearchGate, but with research community views)
-- _Domain-level knowledge base_ (like Wikipedia, but machine-interpretable and directly from the researchers)
-- _Bi-directional integration with journals:_ nanopublications are added to submissions / accepted articles are annotated with nanopublications
+- _Knowledge base_ ("Wikidata for researchers")
+- _Update feeds_ ("Twitter with structured content")
+- _Social network_ ("LinkedIn for researchers")
+- _Trusted communities_ (for scientific fields, projects, etc.)
+- _Journal links_ (adding nanopublications to submissions / annotating accepted articles with nanopublications)
 
 ---
 
