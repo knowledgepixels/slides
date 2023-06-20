@@ -32,7 +32,7 @@
 
 - _Precision:_ Machine-interpretable due to logic-based representation
 - _Speed:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
-- _Trust:_ Trust through social network and through rich statement-level provenance
+- _Trust:_ Trust through social network and through rich statement-level context
 
 ---
 
@@ -56,7 +56,7 @@
 ## Technology: Nanopublications
 
 - Universal: for all kinds of scholarly knowledge
-- Based on small, provenance-aware data snippets:
+- Based on small, context-aware data snippets:
 
 <img class="stretch" src="knowledge-record.png"/>
 
@@ -68,7 +68,7 @@
 
 ## Product: Nanodash
 
-Platform to publish and consume nanopublications via the ecosystem, and to interact with scientific communities:
+Platform on the ecosystem to publish and consume nanopublications, and to interact with scientific communities:
 
 - _Knowledge base_ ("Wikidata for researchers")
 - _Update feeds_ ("Twitter with structured content")
@@ -246,8 +246,7 @@ _Phase 4 "expand" (2025+)_
 
 - PhD in Computer Science
 - co-author of FAIR principles
-- nanopublication technology leader
-- Nanodash developer
+- Nanodash developer and nanopublication technology leader
 - 12 years of research experience
 
 </div>
