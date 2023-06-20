@@ -228,6 +228,7 @@ _Phase 4 "expand" (2025+)_
 
 **marketing / business administration**
 
+- MA in Business and Economics
 - 5 years of experience in successful startup launch (republik.ch)
 - track record includes roles as team leader and head of finance
 
@@ -243,6 +244,7 @@ _Phase 4 "expand" (2025+)_
 
 **software development / research**
 
+- PhD in Computer Science
 - co-author of FAIR principles
 - nanopublication technology leader
 - Nanodash developer
