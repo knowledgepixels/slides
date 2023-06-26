@@ -8,48 +8,11 @@
 
 ---
 
-## Problem
-
-- **Publishing of scientific knowledge and discourse is:**
-  - _unstructured_ (narratives instead of knowledge graphs)
-  - _disconnected_ (platforms only know about own content)  <!-- all major communication platforms used by researchers are data silos:  ResearchGate, Academia.edu, LinkedIn, Twitter -->
-  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
-  	or _untrusted/unrewarded_ (blogs/social)
-- **Consequences:**
-  - _Researchers_ waste time and energy
-  - _Society_ wastes money
-  - _Everybody_ lacks scientific insights
-<!--
-- Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
-- _Science is slowed down by this lack of efficient communication_
--->
+<img style="max-width: 150%" src="problem.svg"/>
 
 ---
 
-## Solution:
-
-### precise, fast, and trustworthy knowledge updates
-
-- _Precision:_ Machine-interpretable due to logic-based representation
-- _Speed:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
-- _Trust:_ Trust through social network and through rich statement-level context
-
----
-
-## Value Proposition
-
-- **Researchers / Communities / Projects / Institutions:**
-  - Communication with precision, speed, and trust
-  - Visibility and recognition in communities
-  <!-- - Credit for community-driven datasets -->
-  <!--  - → time saved for staying up-to-date, AI-powered assistance, etc. -->
-- **Publishers / Journals:**
-  - Strong connection to research communities
-  - Getting good papers/reviewers, visibility, reputation
-  <!-- - Role as guardians of scientific communities and data -->
-  <!-- - New economic opportunities in ecosystem -->
-- **Everybody:**
-  - Precise and trustworthy AI-powered reasoning on humanity's knowledge
+<img style="max-width: 150%" src="solution.svg"/>
 
 ---
 
@@ -230,7 +193,7 @@ _Phase 4 "expand" (2025+)_
 
 - MA in Business and Economics
 - 5 years of experience in successful startup launch (republik.ch)
-- track record includes roles as team leader and head of finance
+- track record as team leader and head of finance
 
 </div>
 
@@ -270,6 +233,51 @@ _Phase 4 "expand" (2025+)_
 ## End of Pitch
 
 (extra slides follow)
+
+---
+
+## Problem
+
+- **Publishing of scientific knowledge and discourse is:**
+  - _unstructured_ (narratives instead of knowledge graphs)
+  - _disconnected_ (platforms only know about own content)  <!-- all major communication platforms used by researchers are data silos:  ResearchGate, Academia.edu, LinkedIn, Twitter -->
+  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
+  	or _untrusted/unrewarded_ (blogs/social)
+- **Consequences:**
+  - _Researchers_ waste time and energy
+  - _Society_ wastes money
+  - _Everybody_ lacks scientific insights
+<!--
+- Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
+- _Science is slowed down by this lack of efficient communication_
+-->
+
+---
+
+## Solution:
+
+### precise, fast, and trustworthy knowledge updates
+
+- _Precision:_ Machine-interpretable due to logic-based representation
+- _Speed:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
+- _Trust:_ Trust through social network and through rich statement-level context
+
+---
+
+## Value Proposition
+
+- **Researchers / Communities / Projects / Institutions:**
+  - Communication with precision, speed, and trust
+  - Visibility and recognition in communities
+  <!-- - Credit for community-driven datasets -->
+  <!--  - → time saved for staying up-to-date, AI-powered assistance, etc. -->
+- **Publishers / Journals:**
+  - Strong connection to research communities
+  - Getting good papers/reviewers, visibility, reputation
+  <!-- - Role as guardians of scientific communities and data -->
+  <!-- - New economic opportunities in ecosystem -->
+- **Everybody:**
+  - Precise and trustworthy AI-powered reasoning on humanity's knowledge
 
 ---
 
