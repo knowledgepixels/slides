@@ -16,7 +16,7 @@
 
 ---
 
-## Technology: Nanopublications
+### Our Technology: Nanopublications
 
 <img style="max-width: 30%" src="nanopub.excalidraw.svg"/>
 <br>
@@ -27,19 +27,13 @@
 
 ---
 
-<img style="max-width: 70%" src="nanodash.svg"/>
-
-- _Knowledge base_ ("Wikidata for researchers")
-- _Update feeds_ ("Twitter with structured content")
-- _Social network_ ("LinkedIn for researchers")
-- _Trusted communities_ (for scientific fields, projects, etc.)
-- _Journal connections_ (submissions with nanopublications / accepted articles with nanopublication annotations)
+<img style="max-width: 150%" src="nanodash-demo.svg"/>
 
 ---
 
 ## Market Validation
 
-Global spending on science communication/technology:
+Global spending on scholarly communication/technology:
 
 - _$1 billion/year_ APCs (Article Processing Charges)
   - &gt; 502k Open Access articles/year
@@ -354,8 +348,3 @@ We are building a new nanopublication-based ecosystem for knowledge sharing:
 - $12/article (pro plan income is offset by discounts)
 - _→ 7.2M/y revenue from journals_
 
----
-
-### Calculations for Best-Case Scenario
-
-...
