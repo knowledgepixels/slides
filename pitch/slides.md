@@ -8,17 +8,23 @@
 
 ---
 
-<img style="max-width: 150%" src="problem.svg"/>
+<h4 style="text-align: left;">The Problem</h4>
+
+<img style="margin-top: -6mm; max-width: 150%" src="problem.svg"/>
 
 ---
 
-<img style="max-width: 150%" src="solution.svg"/>
+<h4 style="text-align: left;">Our Solution</h4>
+
+<img style="margin-top: -6mm; max-width: 150%" src="solution.svg"/>
 
 ---
 
-### Our Technology: Nanopublications
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Technology</h4>
 
-<img style="max-width: 30%" src="nanopub.excalidraw.svg"/>
+## Nanopublications
+
+<img style="max-width: 25%" src="nanopub.excalidraw.svg"/>
 <br>
 
 - Based on small, context-aware data snippets
@@ -27,25 +33,15 @@
 
 ---
 
-<img style="max-width: 150%" src="nanodash-demo.svg"/>
+<h4 style="text-align: left;">Our Product</h4>
+
+<img style="margin-top: -6mm; max-width: 90%" src="nanodash-demo.svg"/>
 
 ---
 
-## Market Validation
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Business</h4>
 
-Global spending on scholarly communication/technology:
-
-- _$1 billion/year_ APCs (Article Processing Charges)
-  - &gt; 502k Open Access articles/year
-  - avg. $1626/article
-- _$6 billion/year_ on journal subscriptions
-  - &gt; 2 million articles/year
-- _$50 billion/year_ on technology by universities
-
----
-
-## Business Model
-### Multi-Sided Platform
+## Multi-Sided Platform
 
 - **Researchers / Communities / Projects / Institutions:**
   - _Freemium model_
@@ -56,50 +52,13 @@ Global spending on scholarly communication/technology:
 
 ---
 
-## Plans and Pricing
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Roadmap</h4>
 
-- **Nanodash for researchers (with group/institution discounts):**
-  - Free
-  - Standard: $200/y/user
-  - Pro: $400/y/user
-  - _(~ same as Overleaf pricing)_
-- **Nanodash for journals (with discounts for large ones):**
-  - Standard: $12/y/article _(<1% of avg. APC)_
-  - Pro: $18/y/article
+<img style="max-width: 150%" src="roadmap.svg"/>
 
 ---
 
-## Roadmap Phases 1 & 2
-
-_Phase 1 "prove value" (2023)_
-
-- Nanodash Beta launch **[done]**
-- Attract ~5 small communities
-- Win projects/consortia partners / innovation grants
-
-_Phase 2 "get market-ready" (2023/24)_
-
-- Make Nanodash user-friendly and market-ready
-- Complete pre-seed investment round
-
----
-
-## Roadmap Phases 3 & 4
-_Phase 3 "win communities" (2024/25)_
-
-- Gain large communities (> 100 users)
-- Launch freemium plans
-- First subscriptions by publishers
-
-_Phase 4 "expand" (2025+)_
-
-- Push expansion with marketing
-- Scale up ecosystem
-- Grow revenues
-
----
-
-## Potential Outcomes
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Future</h4>
 
 - _**Best-case scenario:**_ Our ecosystem revolutionizes scientific communication and we dominate this new market, with upwards of $100M of yearly revenue
 - _**Realistic success scenario:**_ Our ecosystem is established in major scientific domains and we occupy a large share of the created market, with around $10M of yearly revenue
@@ -107,7 +66,7 @@ _Phase 4 "expand" (2025+)_
 
 ---
 
-## Competition Analysis
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Competitors</h4>
 
 <small>
 <table align="center">
@@ -170,7 +129,8 @@ _Phase 4 "expand" (2025+)_
 
 ---
 
-## The team
+<h4 style="text-align: left; margin-bottom: 8mm;">The Team</h4>
+
 <div class="container"><div class="col">
 
 <img style="width: 40%;" src="https://knowledgepixels.com/assets/img/philipp.jpg"/>
@@ -208,13 +168,13 @@ _Phase 4 "expand" (2025+)_
 
 ---
 
-## Financial Projections
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Finances</h4>
 
 ...
 
 ---
 
-## Fundraising
+<h4 style="text-align: left; margin-bottom: 8mm;">Your Funding</h4>
 
 ...
 
@@ -223,51 +183,6 @@ _Phase 4 "expand" (2025+)_
 ## End of Pitch
 
 (extra slides follow)
-
----
-
-## Problem
-
-- **Publishing of scientific knowledge and discourse is:**
-  - _unstructured_ (narratives instead of knowledge graphs)
-  - _disconnected_ (platforms only know about own content)  <!-- all major communication platforms used by researchers are data silos:  ResearchGate, Academia.edu, LinkedIn, Twitter -->
-  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
-  	or _untrusted/unrewarded_ (blogs/social)
-- **Consequences:**
-  - _Researchers_ waste time and energy
-  - _Society_ wastes money
-  - _Everybody_ lacks scientific insights
-<!--
-- Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
-- _Science is slowed down by this lack of efficient communication_
--->
-
----
-
-## Solution:
-
-### precise, fast, and trustworthy knowledge updates
-
-- _Precision:_ Machine-interpretable due to logic-based representation
-- _Speed:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
-- _Trust:_ Trust through social network and through rich statement-level context
-
----
-
-## Value Proposition
-
-- **Researchers / Communities / Projects / Institutions:**
-  - Communication with precision, speed, and trust
-  - Visibility and recognition in communities
-  <!-- - Credit for community-driven datasets -->
-  <!--  - → time saved for staying up-to-date, AI-powered assistance, etc. -->
-- **Publishers / Journals:**
-  - Strong connection to research communities
-  - Getting good papers/reviewers, visibility, reputation
-  <!-- - Role as guardians of scientific communities and data -->
-  <!-- - New economic opportunities in ecosystem -->
-- **Everybody:**
-  - Precise and trustworthy AI-powered reasoning on humanity's knowledge
 
 ---
 
@@ -281,6 +196,32 @@ We are building a new nanopublication-based ecosystem for knowledge sharing:
 
 ---
 
+## Market Validation
+
+Global spending on scholarly communication/technology:
+
+- _$1 billion/year_ APCs (Article Processing Charges)
+  - &gt; 502k Open Access articles/year
+  - avg. $1626/article
+- _$6 billion/year_ on journal subscriptions
+  - &gt; 2 million articles/year
+- _$50 billion/year_ on technology by universities
+
+---
+
+## Plans and Pricing
+
+- **Nanodash for researchers (with group/institution discounts):**
+  - Free
+  - Standard: $200/y/user
+  - Pro: $400/y/user
+  - _(~ same as Overleaf pricing)_
+- **Nanodash for journals (with discounts for large ones):**
+  - Standard: $12/y/article _(<1% of avg. APC)_
+  - Pro: $18/y/article
+
+---
+
 ## Short-Term Business Model
 
 - **Partners:**
@@ -289,6 +230,10 @@ We are building a new nanopublication-based ecosystem for knowledge sharing:
 - **Researchers / Communities / Projects / Institutions:**
   - Free use of Nanodash
   - _Value:_ Fast, precise, and trustworthy knowledge updates; visibility and recognition in community
+
+---
+
+## Calculation Slides
 
 ---
 
@@ -347,4 +292,55 @@ We are building a new nanopublication-based ecosystem for knowledge sharing:
 **20% of 3M articles/y (600k) in journals with Nanodash plan**
 - $12/article (pro plan income is offset by discounts)
 - _→ 7.2M/y revenue from journals_
+
+---
+
+## Older Slides Follow...
+
+(some with source references and further explanation in the HTML comments)
+
+---
+
+## Problem
+
+- **Publishing of scientific knowledge and discourse is:**
+  - _unstructured_ (narratives instead of knowledge graphs)
+  - _disconnected_ (platforms only know about own content)  <!-- all major communication platforms used by researchers are data silos:  ResearchGate, Academia.edu, LinkedIn, Twitter -->
+  - _slow_ (9-18 months from submission to formal publication)  <!-- source: https://doi.org/10.1016/j.joi.2013.09.001 -->
+  	or _untrusted/unrewarded_ (blogs/social)
+- **Consequences:**
+  - _Researchers_ waste time and energy
+  - _Society_ wastes money
+  - _Everybody_ lacks scientific insights
+<!--
+- Existing approaches for organizing scientific knowledge (ResearchGate, ChatGPT, etc.)  are shallow and imprecise
+- _Science is slowed down by this lack of efficient communication_
+-->
+
+---
+
+## Solution:
+
+### precise, fast, and trustworthy knowledge updates
+
+- _Precision:_ Machine-interpretable due to logic-based representation
+- _Speed:_ Created quickly due to minimal size, and disseminated quickly due to dedicated ecosystem
+- _Trust:_ Trust through social network and through rich statement-level context
+
+---
+
+## Value Proposition
+
+- **Researchers / Communities / Projects / Institutions:**
+  - Communication with precision, speed, and trust
+  - Visibility and recognition in communities
+  <!-- - Credit for community-driven datasets -->
+  <!--  - → time saved for staying up-to-date, AI-powered assistance, etc. -->
+- **Publishers / Journals:**
+  - Strong connection to research communities
+  - Getting good papers/reviewers, visibility, reputation
+  <!-- - Role as guardians of scientific communities and data -->
+  <!-- - New economic opportunities in ecosystem -->
+- **Everybody:**
+  - Precise and trustworthy AI-powered reasoning on humanity's knowledge
 
