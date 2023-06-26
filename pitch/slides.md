@@ -41,14 +41,7 @@
 
 <h4 style="text-align: left; margin-bottom: 8mm;">Our Business</h4>
 
-## Multi-Sided Platform
-
-- **Researchers / Communities / Projects / Institutions:**
-  - _Freemium model_
-  - Free in the short term
-- **Publishers / Journals:**
-  - _Subscription model_
-  - Medium term
+<img style="margin-top: -6mm; max-width: 90%" src="business-model.svg"/>
 
 ---
 
