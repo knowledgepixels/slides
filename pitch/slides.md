@@ -18,20 +18,16 @@
 
 ## Technology: Nanopublications
 
-- Universal: for all kinds of scholarly knowledge
-- Based on small, context-aware data snippets:
-
-<img class="stretch" src="knowledge-record.png"/>
-
+<img style="max-width: 30%" src="nanopub.excalidraw.svg"/>
 <br>
 
+- Based on small, context-aware data snippets
+- Universal: for all kinds of scholarly knowledge
 - Published via decentralized ecosystem
 
 ---
 
-## Product: Nanodash
-
-Platform on the ecosystem to publish and consume nanopublications, and to interact with scientific communities:
+<img style="max-width: 70%" src="nanodash.svg"/>
 
 - _Knowledge base_ ("Wikidata for researchers")
 - _Update feeds_ ("Twitter with structured content")
