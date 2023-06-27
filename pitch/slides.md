@@ -59,7 +59,7 @@
 
 ---
 
-<h4 style="text-align: center; margin-bottom: 8mm;">Our Competitors</h4>
+<h4 style="text-align: left; margin-bottom: 8mm;">Our Competitors</h4>
 
 <small>
 <table align="center">
@@ -69,9 +69,9 @@
   <th>fast publishing</th>
   <th>social network</th>
   <th>trusted communities</th>
-  <th>peer review aware</th>
+  <th>peer&nbsp;review aware</th>
 </tr>
-<tr>
+<tr style="height: 3em;">
   <th>Nanodash</th>
   <td><em class="check"><strong>✓</strong></em></td>
   <td><em class="check"><strong>✓</strong></em></td>
@@ -79,7 +79,7 @@
   <td><em class="check"><strong>✓</strong></em></td>
   <td><em class="check"><strong>✓</strong></em></td>
 </tr>
-<tr>
+<tr style="height: 3em;">
   <th>ResearchGate, Academia.edu</th>
   <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
@@ -87,7 +87,7 @@
   <td></td>
   <td><em class="check"><strong>~</strong></em></td>
 </tr>
-<tr>
+<tr style="height: 3em;">
   <th>LinkedIn, Twitter, Mastodon</th>
   <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
@@ -95,7 +95,7 @@
   <td></td>
   <td></td>
 </tr>
-<tr>
+<tr style="height: 3em;">
   <th>Wikidata</th>
   <td><em class="check"><strong>✓</strong></em></td>
   <td><em class="check"><strong>✓</strong></em></td>
@@ -103,7 +103,7 @@
   <td></td>
   <td></td>
 </tr>
-<tr>
+<tr style="height: 3em;">
   <th>StackOverflow, Discourse, etc.</th>
   <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
@@ -111,7 +111,7 @@
   <td><em class="check"><strong>✓</strong></em></td>
   <td></td>
 </tr>
-<tr>
+<tr style="height: 3em;">
   <th>Journal systems</th>
   <td></td>
   <td></td>
