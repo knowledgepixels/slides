@@ -27,9 +27,9 @@
 <img style="max-width: 25%" src="nanopub.excalidraw.svg"/>
 <br>
 
-- Based on small, context-aware data snippets
-- Universal: for all kinds of scholarly knowledge
-- Published via decentralized ecosystem
+- Based on context-aware _knowledge graph snippets_
+- _Universal:_ for all kinds of scholarly knowledge
+- Published via open and decentralized _ecosystem network_
 
 ---
 
