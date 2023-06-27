@@ -119,6 +119,7 @@
   <td></td>
   <td><em class="check"><strong>✓</strong></em></td>
 </tr>
+<tr style="height: 3em;"></tr>
 </table>
 </small>
 
