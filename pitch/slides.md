@@ -59,6 +59,71 @@
 
 ---
 
+<h4 style="text-align: center; margin-bottom: 8mm;">Our Competitors</h4>
+
+<small>
+<table align="center">
+<tr>
+  <th></th>
+  <th>structured knowledge</th>
+  <th>fast publishing</th>
+  <th>social network</th>
+  <th>trusted communities</th>
+  <th>peer review aware</th>
+</tr>
+<tr>
+  <th>Nanodash</th>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+<tr>
+  <th>ResearchGate, Academia.edu</th>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td><em class="check"><strong>~</strong></em></td>
+</tr>
+<tr>
+  <th>LinkedIn, Twitter, Mastodon</th>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Wikidata</th>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>StackOverflow, Discourse, etc.</th>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Journal systems</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><em class="check"><strong>✓</strong></em></td>
+</tr>
+</table>
+</small>
+
+---
+
 <h4 style="text-align: left; margin-bottom: 8mm;">Our Competitors</h4>
 
 <small>
