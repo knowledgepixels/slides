@@ -120,9 +120,35 @@ Tiny containers of FAIR knowledge for scientific publishing:
 
 ---
 
+## Hands-on Demo:
+
+<img src="nanodash-logo.svg"/>
+
+<small><a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a></small>
+
+---
+
+## Cutting Edge Warning
+
+<img class="plain stretch" src="cutting.png"/>
+
+<small><a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a></small>
+
+---
+
 ## Overrated/Underrated
 
 <img class="plain stretch" src="overunderrated.png"/>
+
+<small><a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a></small>
+
+---
+
+## Links and Instructions
+
+Visit <a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a>
+
+<img class="plain stretch" src="demo-instruction.png"/>
 
 ---
 
@@ -130,11 +156,27 @@ Tiny containers of FAIR knowledge for scientific publishing:
 
 <img class="plain stretch" src="monitor.png"/>
 
+<small><a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a></small>
+
 ---
 
 ## Querying the Network
 
 <img class="plain stretch" src="query.png"/>
+
+<small><a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a></small>
+
+---
+
+## Nanopublications are (quite) FAIR
+
+- _F:_ Identifiers and searchable
+- _A:_ Retrievable through the decentralized network
+- _I:_ Machine-interpretable due to use of RDF
+- _R:_ Rich metadata: provenance, license, etc.
+
+
+<small><a href="https://knowledgepixels.com/switch-demo" target="_blank">knowledgepixels.com/switch-demo</a></small>
 
 ---
 
