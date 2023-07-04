@@ -74,6 +74,12 @@ Let me identify myself:
 
 ---
 
+## Reliability?
+
+_Decentralization, replication, cryptography can help..._
+
+---
+
 <section>
 <h3>Interoperable</h3>
 <ul>
