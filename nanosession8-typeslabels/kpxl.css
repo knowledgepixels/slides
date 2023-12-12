@@ -239,6 +239,8 @@
 
 .reveal code {
   font-family: var(--r-code-font);
+  font-size: 80%;
+  color: #4F85BA;
   text-transform: none;
   tab-size: 2;
 }
