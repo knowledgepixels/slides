@@ -101,5 +101,14 @@ This then automatically assigns the type ([link to example](http://purl.org/np/R
 
 ---
 
+## Conclusions
+
+- Gives us a _well-defined method_ to get a label and a set of types for any given nanopublication
+- (but might not give a label or type if the _best practices_ are not followed)
+- Can be _calculated efficiently_ on the single nanopublication
+- _Templates_ can ensure compliance with best practices
+
+---
+
 ## Thank you for your attention!
 
