@@ -15,7 +15,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 - _Tiny packages of knowledge graph contributions_
 - Come with provenance and metadata
 - Treated as individual independent publications
-- Reliably referenced with cryptographic content-based identifiers
+- Reliably referenced with hash-based identifiers
 - Can be digitally signed
 
 **Example:**
@@ -24,11 +24,36 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
-## Updates and Collections
+## Nanopublications: Updates and Collections
 
 - Nanopublications are _immutable_ by definition
 - To _update_ a nanopublication, a new nanopublication can declare to supersede or retract the first
-- (Large) collections of nanopublications can be defined with index nanopublications pointing to collection members
+- (Large) collections of nanopublications can be defined with index nanopublications pointing to its members
+
+---
+
+![network](network.png)
+
+## Nanopublication Ecosystem
+
+- Decentralized and open network of servers
+- Layers of publishing services / querying services
+- Has been up continuously for more than 10 years
+- Network monitor: [https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)
+
+---
+
+## Nanopublication Client
+
+![Nanodash](https://nanodash.knowledgepixels.com/images/logo.svg)
+
+- Allows for browsing and searching nanopublications
+- Allows for publishing nanopublication via template-based forms (which are defined as nanopublications too)
+- Doesn't have any local database, but gets all its data from the network
+
+**Try it out yourself:**
+
+[https://nanodash.knowledgepixels.com/](https://nanodash.knowledgepixels.com/)
 
 ---
 
