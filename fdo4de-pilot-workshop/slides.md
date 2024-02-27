@@ -14,7 +14,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ## What are Nanopublications?
 
-- _Tiny packages of knowledge graph contributions_
+- _Tiny packages of knowledge graph (RDF) contributions_
 - Come with provenance and metadata
 - Treated as individual independent publications
 - Reliably referenced with hash-based identifiers
@@ -34,24 +34,23 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
-<img src="network.png" height="150px">
-
 ## Nanopublication Ecosystem
 
-- Decentralized and open network of servers
+<img src="network.png" height="250px">
+
+- _Decentralized and open network of servers_
 - Layers of publishing services / querying services
 - Has been up continuously for more than 10 years
 - Network monitor: [https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)
 
 ---
 
-## Nanopublication Client
+<img src="https://nanodash.knowledgepixels.com/images/logo.svg"i height="150px">
 
-<img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="100px">
-
+- _Nanopublication client_
 - Allows for browsing and searching nanopublications
 - Allows for publishing nanopublication via template-based forms (which are defined as nanopublications too)
-- Doesn't have any local database, but gets all its data from the network
+- Doesn't have any local database, but _gets all its data from the network_
 
 **Try it out yourself:**
 
@@ -61,27 +60,36 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ## FAIR Digital Objects (FDOs)
 
-...
+- _Digital objects (files) made FAIR_
+- Infrastructure to deal with them
+- FDO Forum has been productive in creating documents but not many prototypes
 
 ---
 
 ## FAIR Digital Object Framework
 
-<img src="https://fairdigitalobjectframework.org/images/diagrams/FDOF-IR.png" height="300px">
+<small>[https://fairdigitalobjectframework.org/](https://fairdigitalobjectframework.org/)</small>
 
-...
+- Most significant FDO contribution so far (in my view)
+- Important elements: Metadata Records and Digital Objects
+
+<img src="https://fairdigitalobjectframework.org/images/diagrams/FDOF-IR.png" height="300px">
 
 ---
 
 ## Nanopublications vs. FDOs
 
-...
+- small vs. any size
+- RDF vs. any format
+- about anything vs. about digital objects
 
 ---
 
 ## Nanopublication as FDO Implementation
 
-...
+- all nanopublications are FDOs
+- nanopublications are a suitable implementation for Metadata Records
+- nanopublications are _not_ a suitable implemention for the Digital Objects themselves
 
 ---
 
