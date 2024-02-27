@@ -26,7 +26,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
-## Nanopublications: Updates and Collections
+## Updates and Collections
 
 - Nanopublications are _immutable_ by definition
 - To _update_ a nanopublication, a new nanopublication can declare to supersede or retract the first
@@ -45,7 +45,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
-<img src="https://nanodash.knowledgepixels.com/images/logo.svg"i height="150px">
+<img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="150px">
 
 - _Nanopublication client_
 - Allows for browsing and searching nanopublications
