@@ -77,19 +77,29 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
-## Nanopublications vs. FDOs
+## _Nanopublications_ vs. FDOs
 
-- small vs. any size
-- RDF vs. any format
-- about anything vs. about digital objects
+- _small_ vs. any size
+- _RDF_ vs. any format
+- _about anything_ vs. about digital objects
 
 ---
 
 ## Nanopublication as FDO Implementation
 
-- all nanopublications are FDOs
-- nanopublications are a suitable implementation for Metadata Records
-- nanopublications are _not_ a suitable implemention for the Digital Objects themselves
+- all nanopublications are FDOs (but not vice versa)
+- all FDO Metadata Records can be implemented as nanopublications ([experimental Nanodash template](https://nanodash.knowledgepixels.com/publish?template=http://purl.org/np/RAg6NiMQTYbPlf2R1nlC2FaTgDTsOPs90ynrhjFIQImq0))
+
+---
+
+## Approach for FDO Implementation
+
+- Use nanopublications to represent Metadata Records
+- Use the nanopublication network to publish them reliably, decentrally, and openly
+- Use the superseding and retracting nanopublication for versioning / updates
+- Use existing research infrastructure (Zenodo, etc.) to publish the Digital Objects (files) themselves
+- Use hashes to verify Digital Objects and store them at multiple locations
+- Deal with typing/schema as we go
 
 ---
 
