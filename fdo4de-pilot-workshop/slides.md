@@ -4,6 +4,8 @@ _Tobias Kuhn_
 
 FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
+[https://knowledgepixels.com/slides/fdo4de-pilot-workshop/](https://knowledgepixels.com/slides/fdo4de-pilot-workshop/)
+
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" width="80px">
@@ -32,7 +34,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
-![network](network.png)
+<img src="network.png" height="150px">
 
 ## Nanopublication Ecosystem
 
@@ -45,7 +47,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ## Nanopublication Client
 
-![Nanodash](https://nanodash.knowledgepixels.com/images/logo.svg)
+<img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="100px">
 
 - Allows for browsing and searching nanopublications
 - Allows for publishing nanopublication via template-based forms (which are defined as nanopublications too)
@@ -54,6 +56,32 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 **Try it out yourself:**
 
 [https://nanodash.knowledgepixels.com/](https://nanodash.knowledgepixels.com/)
+
+---
+
+## FAIR Digital Objects (FDOs)
+
+...
+
+---
+
+## FAIR Digital Object Framework
+
+<img src="https://fairdigitalobjectframework.org/images/diagrams/FDOF-IR.png" height="300px">
+
+...
+
+---
+
+## Nanopublications vs. FDOs
+
+...
+
+---
+
+## Nanopublication as FDO Implementation
+
+...
 
 ---
 
