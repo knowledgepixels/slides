@@ -94,12 +94,12 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ## Approach for FDO Implementation
 
-- Use nanopublications to represent Metadata Records
-- Use the nanopublication network to publish them reliably, decentrally, and openly
-- Use the superseding and retracting nanopublication for versioning / updates
-- Use existing research infrastructure (Zenodo, etc.) to publish the Digital Objects (files) themselves
-- Use hashes to verify Digital Objects and store them at multiple locations
-- Deal with typing/schema as we go
+- Use nanopublications to represent _Metadata Records_
+- Use the _nanopublication network_ to publish them
+- Use superseding/retracting for versioning and updates
+- Use existing research infrastructure (Zenodo, etc.) to publish the _Digital Objects_ themselves
+- Add _hashes_ to Digital Objects to allow for verification/redundancy
+- Deal with _typing/schema_ as we go
 
 ---
 
