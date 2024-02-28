@@ -2,7 +2,7 @@
 
 _Tobias Kuhn_
 
-**Knowledg Pixels** ([knowledgepixels.com](https://knowledgepixels.com))
+**Knowledge Pixels** ([knowledgepixels.com](https://knowledgepixels.com))
 
 FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
