@@ -103,5 +103,16 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 ---
 
+## Prototype Features
+
+- _Simple manual or script-based registration of FDOs:_
+  - By uploading file (Digital Object) to Zenodo et al.
+  - By publishing a nanopublication as Metadata Record
+- _Retrieving FDOs with standard HTTP:_
+  - Get Metadata Record (HTTP redirect to nanopublication network)
+  - Get Digital Object (HTTP redirect to Zenodo et al.)
+
+---
+
 ## Thank you for your attention!
 
