@@ -111,6 +111,8 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 - _Retrieving FDOs with standard HTTP:_
   - Get Metadata Record (HTTP redirect to nanopublication network)
   - Get Digital Object (HTTP redirect to Zenodo et al.)
+- _Searching / analyzing FDO metadata:_
+  - Based on query services in nanopublication network
 
 ---
 
