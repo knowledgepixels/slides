@@ -96,7 +96,7 @@ FDO4DE Pilot Workshop, 28 February 2024, Bremen
 
 - Use nanopublications to represent _Metadata Records_
 - Use the _nanopublication network_ to publish them
-- Use superseding/retracting for versioning and updates
+- Use superseding/retracting for _versioning and updates_
 - Use existing research infrastructure (Zenodo, etc.) to publish the _Digital Objects_ themselves
 - Add _hashes_ to Digital Objects to allow for verification/redundancy
 - Deal with _typing/schema_ as we go
