@@ -36,7 +36,7 @@ An introduction the nanopublications and their ecosystem.
 <img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="150px">
 
 - Web interface to browse and search nanopublications
-- ... and to publish nanopublication via template-based forms
+- and publish nanopublications via template-based forms
 - Based on the services of the network (no local DB)
 
 **Try it out yourself:**
