@@ -1,5 +1,9 @@
 ## Nanopublication Ecosystem
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" width="120px">
+<path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/>
+</svg>
+
 An introduction the nanopublications and their ecosystem.
 
 <small>These slides: [https://knowledgepixels.com/slides/nanopub-ecosystem/](https://knowledgepixels.com/slides/nanopub-ecosystem/)</small>
@@ -10,12 +14,14 @@ An introduction the nanopublications and their ecosystem.
 <path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/>
 </svg>
 
-## What are Nanopublications?
+## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" height="1em"><path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/></svg>  What are Nanopublications?
 
 - _Tiny packages of knowledge graph contributions_
-- Encoded in formal knowledge representation language (RDF)
+- Encoded in machine-interpretable language (RDF)
 - Come with provenance and metadata (also in RDF)
 - Treated as individual independent publications
+
+<img src="nanopub.png" height="250px">
 
 ---
 
@@ -23,11 +29,11 @@ An introduction the nanopublications and their ecosystem.
 
 <img src="network.png" height="250px">
 
+<small>[https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)</small>
+
 - _Decentralized and open network of servers_
 - Layers of publishing services / querying services
 - Has been up continuously for more than 10 years
-
-<small>[https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)</small>
 
 ---
 
