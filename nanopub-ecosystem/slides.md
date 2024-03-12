@@ -26,11 +26,12 @@ An introduction the nanopublications and their ecosystem.
 
 ## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" height="1ex"><path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/></svg> Nanopublications
 
-- Can be reliably retrieved / referenced through hash-based identifiers (Trusty URIs, e.g. [http://purl.org/np/RASe3c2pjmN9TvAoxD_CZ-qBVhVMUk9dSMRHOOVxdXbqM](http://purl.org/np/RASe3c2pjmN9TvAoxD_CZ-qBVhVMUk9dSMRHOOVxdXbqM))
+- Can be reliably retrieved/referenced via hash-based identifiers
 - Can be digitally signed
 - Are linked to their creators (e.g. via [ORCID](https://orcid.org/))
-- _Can be about anything_, e.g. domain-level links between genes/diseases/organisms/drugs/etc., data entries, metadata, reviews, comments, opinions, workflows, etc.
-- New terms (concepts, relations, etc.) can be defined on the fly if needed
+- _Can be about anything_
+  - e.g. domain-level links between genes/diseases/organisms/drugs/etc., data entries, metadata, reviews, comments, opinions, workflows, etc.
+- Vocabulary terms can be defined on the fly if needed
 
 ---
 
@@ -41,15 +42,16 @@ An introduction the nanopublications and their ecosystem.
 <small>[https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)</small>
 
 - _Decentralized and open network of servers_
-- Layers of publishing services / querying services
+- Publishing layer: publish, retrieve, archive knowledge (ID-based lookup)
+- Querying layer: access knowledge (complex queries via SPARQL etc.)
 
 ---
 
 <img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="150px">
 
-- Web interface to browse and search nanopublications
-- and publish nanopublications via template-based forms
-- Based on the services of the network (no local DB)
+- Web interface to _browse and search_ nanopublications
+- and _publish_ nanopublications via template-based forms
+- Connects to network of services (no local DB)
 
 **Try it out yourself:**
 
