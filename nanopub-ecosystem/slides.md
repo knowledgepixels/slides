@@ -48,7 +48,7 @@ an introduction to nanopublications and their ecosystem
 
 Get all taxon-environment relations:
 
-<img src="query.png" height="450px">
+<img src="query.png" height="400px">
 
 ---
 
