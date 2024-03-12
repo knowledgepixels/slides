@@ -44,6 +44,14 @@ an introduction to nanopublications and their ecosystem
 
 ---
 
+## Example Query
+
+Get all taxon-environment relations:
+
+<img src="query.png" height="350px">
+
+---
+
 <img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="150px">
 
 - Web interface to _browse and search_ nanopublications
