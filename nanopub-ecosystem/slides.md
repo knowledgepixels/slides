@@ -6,7 +6,7 @@
 
 ## Nanopublication Ecosystem
 
-An introduction the nanopublications and their ecosystem.
+An introduction to nanopublications and their ecosystem.
 
 <small>These slides: [https://knowledgepixels.com/slides/nanopub-ecosystem/](https://knowledgepixels.com/slides/nanopub-ecosystem/)</small>
 
@@ -37,8 +37,6 @@ An introduction the nanopublications and their ecosystem.
 ## Ecosystem of Services
 
 <img src="network.png" height="250px">
-
-<small>[https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)</small>
 
 - _Decentralized and open network of servers_
 - Publishing layer: publish, retrieve, archive knowledge (ID-based lookup)
