@@ -6,7 +6,7 @@
 
 ## Nanopublication Ecosystem
 
-An introduction to nanopublications and their ecosystem.
+an introduction to nanopublications and their ecosystem
 
 <small>These slides: [https://knowledgepixels.com/slides/nanopub-ecosystem/](https://knowledgepixels.com/slides/nanopub-ecosystem/)</small>
 
