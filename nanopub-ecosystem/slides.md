@@ -26,10 +26,9 @@ An introduction the nanopublications and their ecosystem.
 
 ## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" height="1ex"><path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/></svg> Nanopublications
 
-- Can be reliably retrieved/referenced via hash-based identifiers
-- Can be digitally signed
+- Can be reliably retrieved via hash-based identifiers and can be digitally signed
 - Are linked to their creators (e.g. via [ORCID](https://orcid.org/))
-- _Can be about anything_
+- _Can be about anything:_
   - e.g. domain-level links between genes/diseases/organisms/drugs/etc., data entries, metadata, reviews, comments, opinions, workflows, etc.
 - Vocabulary terms can be defined on the fly if needed
 
