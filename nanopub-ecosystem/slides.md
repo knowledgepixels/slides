@@ -22,7 +22,7 @@ An introduction the nanopublications and their ecosystem.
 
 ---
 
-## Nanopublication Ecosystem
+## Ecosystem of Services
 
 <img src="network.png" height="250px">
 
@@ -30,16 +30,14 @@ An introduction the nanopublications and their ecosystem.
 
 - _Decentralized and open network of servers_
 - Layers of publishing services / querying services
-- Has been up continuously for more than 10 years
 
 ---
 
 <img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="150px">
 
-- _Nanopublication client_
-- Allows for browsing and searching nanopublications
-- Allows for publishing nanopublication via template-based forms (which are defined as nanopublications too)
-- Doesn't have any local database, but _gets all its data from the network_
+- Web interface to browse and search nanopublications
+- ... and to publish nanopublication via template-based forms
+- Based on the services of the network (no local DB)
 
 **Try it out yourself:**
 
