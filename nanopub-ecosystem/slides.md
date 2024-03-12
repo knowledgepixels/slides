@@ -1,18 +1,14 @@
-## Nanopublication Ecosystem
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" width="120px">
 <path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/>
 </svg>
+
+## Nanopublication Ecosystem
 
 An introduction the nanopublications and their ecosystem.
 
 <small>These slides: [https://knowledgepixels.com/slides/nanopub-ecosystem/](https://knowledgepixels.com/slides/nanopub-ecosystem/)</small>
 
 ---
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" width="80px">
-<path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/>
-</svg>
 
 ## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" height="1em"><path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/></svg>  What are Nanopublications?
 
