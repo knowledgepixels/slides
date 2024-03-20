@@ -92,7 +92,7 @@ ecosystem for sharing knowledge much more efficiently
 
 ---
 
-## Querying
+## Querying Example
 
 <div class="container">
 
@@ -131,7 +131,7 @@ _Result from network:_
 - and _publish_ nanopublications via template-based forms
 - Connects to network of services (no local DB)
 
-[https://nanodash.knowledgepixels.com/](https://nanodash.knowledgepixels.com/)
+<small>[https://nanodash.knowledgepixels.com/](https://nanodash.knowledgepixels.com/)</small>
 
 ---
 
