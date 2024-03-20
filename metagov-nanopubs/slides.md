@@ -10,6 +10,15 @@ Tobias Kuhn, [Knowledge Pixels](https://knowledgepixels.com/)
 
 ---
 
+## Current Knowledge Sharing is very Inefficient
+
+- Scholarly knowledge mostly published as _narratives_ in papers (not as database entries)
+- _No reliable automatic processing_ for aggregation, question answering, etc.
+- Contributions to scholarly discourse in social media or blogs are _disconnected and not rewarded_
+- ...
+
+---
+
 ## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" height="1ex"><path d="M5,8H8L3,0H0M8,4.8V0H5M0,3.2V8H3"/></svg>  What are Nanopublications?
 
 - _Tiny packages of knowledge graph contributions_
@@ -42,13 +51,44 @@ ecosystem for sharing knowledge much more efficiently
 
 ---
 
-## Ecosystem of Services
+## The Knowledge Space is ...
+
+- like a _knowledge graph_ but open, decentralized, and collaborative
+- like the _Semantic Web_ but robust, scalable, and trust-aware
+- like a _blockchain_ but without a chain and with assertions instead of transactions
+- like a _container environment_ (Docker) but for knowledge instead of software
+- (**not** like a _Large Language Model_)
+
+---
+
+## Knowledge Space Principles
+
+- Everything is communicated in _formal logic_, in a manner that humans can understand and computers can interpret, using a universal and extensible vocabulary
+- Statements are expressed in small _knowledge records_, making each record individually reusable and referenceable
+- ...
+
+[ **nanopublications:** implementation of _knowledge records_ ]
+
+---
+
+## Knowledge Space Properties
+
+- _open and inclusive:_ everybody can publish / add servers
+- _detailed provenance:_ source, authorship, workflows, etc.
+- _publish first - worry about quality later:_ decide whether "good enough" at time of use (not time of publication)
+- _bottom up - no central authority:_ who is trusted is community-defined; multiple webs of trust
+
+---
+
+## Nanopublication Ecosystem of Services
 
 <img src="network.png" height="250px">
 
-- _Decentralized and open network of servers_
-- Publishing layer: publish, retrieve, archive knowledge (ID-based lookup)
-- Querying layer: access knowledge (complex queries via SPARQL etc.)
+- Decentralized and open network of servers
+- _Publishing layer:_ publish & retrieve knowledge (ID lookup)
+- _Querying layer:_ access knowledge (complex queries)
+
+<small>[https://monitor.knowledgepixels.com/](https://monitor.knowledgepixels.com/)</small>
 
 ---
 
