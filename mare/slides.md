@@ -4,15 +4,17 @@ A proposal for helping journals tackling the research integrity crisis.
 
 &nbsp;
 
-by [Knowledge Pixels](https://knowledgepixels.com/)
+<!--by [Knowledge Pixels](https://knowledgepixels.com/)-->
 
 <!--<small>These slides: [https://knowledgepixels.com/slides/mare/](https://knowledgepixels.com/slides/mare/)</small>-->
 
 ---
 
-## Research Integrity Crisis
+## _Research Integrity Crisis_
 
-...
+<img style="width:60%" src="theguardian.png"/>
+
+<img style="width:70%" src="scholarlykitchen.png"/>
 
 ---
 
@@ -56,3 +58,17 @@ Something like a _"research integrity CAPTCHA"_<br> or a _"journal entry visa"_?
 
 or tighter/smoother integration via _**APIs**_
 
+---
+
+## Possible First Steps
+
+- Develop a _prototype_ with all core features
+- Use the prototype to show it to _key actors_ (people at Sage, editors-in-chief, editors, authors), and get feedback
+- Run a _small test_ at a selected Sage journal (e.g. testing it as optional step, or mandatory step for 1 week)
+- _Evaluate_ and decide on whether to continue and expand
+
+---
+
+## Your Feedback
+
+We'd love to hear your thoughts on this proposal.
