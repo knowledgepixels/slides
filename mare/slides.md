@@ -1,6 +1,6 @@
 ## Public Manuscript Registration
 
-A proposal for helping journals tackling the research integrity crisis.
+_A proposal for helping journals tackling the research integrity crisis._
 
 &nbsp;
 
@@ -57,6 +57,12 @@ Something like a _"research integrity CAPTCHA"_<br> or a _"journal entry visa"_?
 &nbsp;
 
 or tighter/smoother integration via _**APIs**_
+
+---
+
+## Will this work?
+
+_We don't know..._
 
 ---
 
