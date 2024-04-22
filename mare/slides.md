@@ -31,7 +31,7 @@ Something like a _"research integrity CAPTCHA"_<br> or a _"journal entry visa"_?
 ## Underlying Problem
 
 _Failed attempts of gaming the system leave no public trace._
-<small>(if they fail at the reviewing stage, which is where they should fail)</small>
+<small>(if they fail at the submission/reviewing stage, which is where they should fail)</small>
 
 &nbsp;
 
