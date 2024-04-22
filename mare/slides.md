@@ -67,6 +67,8 @@ Therefore, "keep trying until something goes through" is a tempting strategy for
 
 - _Possibility_ of flagging is sufficient (mostly): journals don't actually need to publish notes about manuscript
 
+- _Cross-publisher_, so authors don't get another fresh shot at journal of different publisher
+
 ---
 
 ## Integration:
