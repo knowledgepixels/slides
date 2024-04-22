@@ -22,9 +22,20 @@ _A proposal for helping journals tackling the research integrity crisis._
 
 ### _Can we tackle the problem BEFORE submission?_
 
-<br><br>
+&nbsp;
 
 Something like a _"research integrity CAPTCHA"_<br> or a _"journal entry visa"_?
+
+---
+
+## Underlying Problem
+
+_Failed attempts of gaming the system leave no public trace._
+<small>(if they fail at the reviewing stage, which is where they should fail)</small>
+
+&nbsp;
+
+Therefore, "keep trying until something goes through" is a tempting strategy for researchers...
 
 ---
 
@@ -50,7 +61,7 @@ Something like a _"research integrity CAPTCHA"_<br> or a _"journal entry visa"_?
 
 ---
 
-## Goal
+## Goals
 
 - Requirement for exposure of manuscript/author to negative flagging _keeps away bad actors from the start_
 
@@ -84,6 +95,7 @@ _We don't know..._
 - Use the prototype to show it to _key actors_ (people at Sage, editors-in-chief, editors, authors), and get feedback
 - Run a _small test_ at a selected Sage journal (e.g. testing it as optional step, or mandatory step for 1 week, etc.)
 - _Evaluate_ and decide on whether to continue and expand
+- Evaluation also includes _legal_ aspects
 
 ---
 
