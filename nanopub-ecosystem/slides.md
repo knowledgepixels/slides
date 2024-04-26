@@ -54,13 +54,21 @@ Get all taxon-environment relations:
 
 <img src="https://nanodash.knowledgepixels.com/images/logo.svg" height="150px">
 
+[https://nanodash.knowledgepixels.com/](https://nanodash.knowledgepixels.com/)
+
+&nbsp;
+
 - Web interface to _browse and search_ nanopublications
 - and _publish_ nanopublications via template-based forms
 - Connects to network of services (no local DB)
 
-**Try it out yourself:**
+---
 
-[https://nanodash.knowledgepixels.com/](https://nanodash.knowledgepixels.com/)
+## Try it out Yourself
+
+<img src="demo.png" height="250px">
+
+[https://knowledgepixels.com/nanopub-demo/](https://knowledgepixels.com/nanopub-demo/)
 
 ---
 
