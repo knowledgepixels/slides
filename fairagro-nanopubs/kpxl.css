@@ -130,7 +130,7 @@ img.np-icon {
   display: flex;
   flex-direction: column;
   min-height: 0;
-  max-height: 380px;
+  max-height: 440px;
   overflow: hidden;
 }
 
@@ -140,7 +140,7 @@ img.np-icon {
   min-height: 0;
   min-width: 0;
   max-width: 80%;
-  max-height: 300px;
+  max-height: 230px;
   width: auto;
   height: auto;
   object-fit: contain;
@@ -157,6 +157,26 @@ img.np-icon {
   flex: 1 1 auto;
   max-width: 100%;
   max-height: 100%;
+}
+
+/* Slides that are just a full-bleed image (title kept for metadata, hidden) */
+.shower .slide.image-only h2 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+.shower .slide.image-only > div[property="schema:description"] {
+  max-height: 560px;
+  height: 560px;
+}
+.shower .slide.image-only img.fig {
+  flex: 1 1 auto;
+  max-width: 92%;
+  max-height: 92%;
 }
 
 /* A wide logo used in place of a heading (e.g. Nanodash) */
@@ -185,6 +205,47 @@ img.np-icon {
   height: 50px;
   width: auto;
   margin: 0;
+}
+
+/* Two small tables side by side (e.g. Spaces slide) */
+.shower .slide .two-tables {
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+}
+.shower .slide table.tinytable {
+  font-size: 0.5em;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+/* dokieli auto-inserts a copy-to-clipboard button after every <pre>/<table>; hide it */
+button.copy-to-clipboard {
+  display: none !important;
+}
+.shower .slide table.tinytable caption {
+  font-family: var(--kpxl-heading-font);
+  font-weight: 600;
+  font-size: 1.15em;
+  text-align: left;
+  padding-bottom: 0.3em;
+  white-space: nowrap;
+}
+.shower .slide table.tinytable th,
+.shower .slide table.tinytable td {
+  border: 1px solid #ccc;
+  padding: 2px 6px;
+  text-align: center;
+}
+.shower .slide table.tinytable tbody th {
+  text-align: left;
+  font-weight: 600;
+}
+.shower .slide table.tinytable thead th {
+  font-weight: 600;
+  white-space: nowrap;
 }
 
 .shower .slide ul.brands {

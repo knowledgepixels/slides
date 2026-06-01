@@ -34,44 +34,76 @@
           <h2 property="schema:name">🎯 Takeaways</h2>
           <div datatype="rdf:HTML" property="schema:description">
             <ul>
-              <li>Nanopublications are small FAIR data packages</li>
-              <li>They can describe anything: data points, datasets, studies, messages, opinions, reviews, social links, etc.</li>
-              <li>They are the basis of an ecosystem that provides a globally integrated open knowledge graph</li>
-              <li>They are still rapidly evolving but ready to be used</li>
+              <li>Nanopublications are small <em>FAIR data packages</em></li>
+              <li>They can describe <em>anything</em>: data points, datasets, studies, messages, opinions, reviews, social links, etc.</li>
+              <li>They are the basis of an ecosystem that provides a <em>globally integrated open knowledge graph</em></li>
+              <li>They are still rapidly evolving but <em>ready to be used</em></li>
             </ul>
+          </div>
+        </section>
+        <section class="slide" id="nanodash" inlist="" rel="schema:hasPart" resource="#nanodash" typeof="bibo:Slide">
+          <h2 property="schema:name"><img alt="Nanodash" class="titlelogo" src="img/nanodash.png" /></h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <ul>
+              <li><em>Browse, search, and publish</em> nanopublications</li>
+              <li><a href="https://nanodash.knowledgepixels.com/">nanodash.knowledgepixels.com</a></li>
+            </ul>
+            <p><img alt="The Nanodash web interface" class="fig" src="img/nanodash-screenshot.png" /></p>
+          </div>
+        </section>
+        <section class="slide figure-only image-only" id="tryit-login" inlist="" rel="schema:hasPart" resource="#tryit-login" typeof="bibo:Slide">
+          <h2 property="schema:name">Try it out: visit Nanodash and log in via ORCID</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p><img alt="Step 1: visit Nanodash and log in via ORCID" class="fig" src="img/tryit-1-login.png" /></p>
+          </div>
+        </section>
+        <section class="slide figure-only image-only" id="tryit-profile" inlist="" rel="schema:hasPart" resource="#tryit-profile" typeof="bibo:Slide">
+          <h2 property="schema:name">Try it out: publish your introduction from your profile</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p><img alt="Step 2: publish your introduction from your profile" class="fig" src="img/tryit-2-profile.png" /></p>
+          </div>
+        </section>
+        <section class="slide figure-only image-only" id="tryit-publish" inlist="" rel="schema:hasPart" resource="#tryit-publish" typeof="bibo:Slide">
+          <h2 property="schema:name">Try it out: check the box and press Publish</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p><img alt="Step 2: check the box and press Publish" class="fig" src="img/tryit-3-publish.png" /></p>
           </div>
         </section>
         <section class="slide" id="what-are-nanopublications" inlist="" rel="schema:hasPart" resource="#what-are-nanopublications" typeof="bibo:Slide">
           <h2 property="schema:name"><img class="np-icon" src="img/nanopub-icon.png" /> What are nanopublications?</h2>
           <div datatype="rdf:HTML" property="schema:description">
-            <p><img alt="The named graphs of a nanopublication" class="fig" src="img/nanopub.png" /></p>
             <ul>
               <li>Smallest unit of attributable, structured knowledge</li>
               <li>Three graphs: <strong>assertion</strong>, <strong>provenance</strong>, <strong>publication info</strong></li>
               <li>RDF, content-addressed, digitally signed</li>
               <li><a href="https://nanopub.net/">nanopub.net</a></li>
             </ul>
+            <p><img alt="The named graphs of a nanopublication" class="fig" src="img/nanopub.png" /></p>
           </div>
         </section>
         <section class="slide" id="why-this-matters-for-fair" inlist="" rel="schema:hasPart" resource="#why-this-matters-for-fair" typeof="bibo:Slide">
-          <h2 property="schema:name">🌾 Why this matters for FAIR</h2>
+          <h2 property="schema:name">✨ How nanopublications are FAIR</h2>
           <div datatype="rdf:HTML" property="schema:description">
             <ul>
-              <li>Semantic Web stack is in place: RDF, SPARQL, Linked Data</li>
-              <li>...but knowledge stays locked in PDFs and silos</li>
-              <li>No simple way to publish a <em>single</em> citable claim</li>
-              <li>FAIR needs a small, universal building block</li>
+              <li><strong>Findable</strong> — globally unique, persistent identifiers (Trusty URIs)</li>
+              <li><strong>Accessible</strong> — retrievable from an open, decentralized network</li>
+              <li><strong>Interoperable</strong> — self-describing RDF using shared vocabularies</li>
+              <li><strong>Reusable</strong> — provenance, license, and signature travel with each claim</li>
             </ul>
           </div>
         </section>
-        <section class="slide" id="a-building-block-for-fair-digital-objects" inlist="" rel="schema:hasPart" resource="#a-building-block-for-fair-digital-objects" typeof="bibo:Slide">
-          <h2 property="schema:name">🧱 A building block for FAIR Digital Objects</h2>
+        <section class="slide" id="use-cases" inlist="" rel="schema:hasPart" resource="#use-cases" typeof="bibo:Slide">
+          <h2 property="schema:name">🧩 Use cases</h2>
           <div datatype="rdf:HTML" property="schema:description">
             <ul>
-              <li><strong>F</strong> — unique, persistent identifiers (Trusty URIs)</li>
-              <li><strong>A</strong> — retrievable from an open, decentralized network</li>
-              <li><strong>I</strong> — self-describing RDF, shared vocabularies</li>
-              <li><strong>R</strong> — provenance, license, signature travel with the claim</li>
+              <li><strong>FAIR Digital Objects</strong> — a building block and unifying layer for FDOs</li>
+              <li><strong>Vocabularies &amp; ontologies</strong> — define and publish terms on the fly</li>
+              <li><strong>Biodiversity domain modeling</strong> — e.g. taxon–environment relations</li>
+              <li><strong>News items</strong> — structured, citable, machine-readable updates</li>
+              <li><strong>Personal research profiles</strong> — talks attended, papers read, and more</li>
+              <li><strong>Corrections &amp; suggestions</strong> — feedback on existing work</li>
+              <li><strong>FAIR implementation decisions</strong> — record choices and their rationale</li>
+              <li>… and much more</li>
             </ul>
           </div>
         </section>
@@ -88,25 +120,75 @@
             <p class="center"><a href="https://monitor.knowledgepixels.com/">monitor.knowledgepixels.com</a></p>
           </div>
         </section>
-        <section class="slide" id="nanodash" inlist="" rel="schema:hasPart" resource="#nanodash" typeof="bibo:Slide">
-          <h2 property="schema:name"><img alt="Nanodash" class="titlelogo" src="img/nanodash.png" /></h2>
+        <section class="slide" id="reliable-publishing" inlist="" rel="schema:hasPart" resource="#reliable-publishing" typeof="bibo:Slide">
+          <h2 property="schema:name">🗄️ Reliable publishing</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p><strong>Nanopub Registry</strong></p>
+            <ul>
+              <li>Validates and stores published nanopublications</li>
+              <li>Copied across independent servers, so nothing gets lost</li>
+              <li>Records stay put — retracted when needed, never deleted</li>
+            </ul>
+            <p><img alt="A network of interlinked nanopublications" class="fig" src="img/query-network.png" /></p>
+          </div>
+        </section>
+        <section class="slide" id="global-querying" inlist="" rel="schema:hasPart" resource="#global-querying" typeof="bibo:Slide">
+          <h2 property="schema:name">🔍 Global querying</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p><strong>Nanopub Query</strong></p>
+            <ul>
+              <li>Makes all nanopublications searchable and discoverable</li>
+              <li>Organized by author and topic, with ready-made search templates</li>
+              <li>A separate layer, so searching never slows down publishing</li>
+            </ul>
+          </div>
+        </section>
+        <section class="slide" id="nanopub-elements" inlist="" rel="schema:hasPart" resource="#nanopub-elements" typeof="bibo:Slide">
+          <h2 property="schema:name">🔌 Nanopub Elements</h2>
           <div datatype="rdf:HTML" property="schema:description">
             <ul>
-              <li><em>Browse, search, and publish</em> nanopublications</li>
-              <li>Template-based forms — no RDF expertise required</li>
-              <li>Connects to the network — nothing to install</li>
-              <li><a href="https://nanodash.knowledgepixels.com/">nanodash.knowledgepixels.com</a></li>
+              <li>Ready-made web components to show nanopublications on any website</li>
+              <li>Display them as lists, tables, or single items</li>
+              <li>Just add an HTML tag — no coding required</li>
+              <li><a href="https://github.com/nanopublication/nanopub-elements">github.com/nanopublication/nanopub-elements</a></li>
             </ul>
+            <p><img alt="A news feed rendered from nanopublications with Nanopub Elements" class="fig" src="img/our-news.png" /></p>
           </div>
         </section>
         <section class="slide" id="spaces" inlist="" rel="schema:hasPart" resource="#spaces" typeof="bibo:Slide">
           <h2 property="schema:name"><img class="np-icon" src="img/spaces-logo.png" /> Spaces</h2>
           <div datatype="rdf:HTML" property="schema:description">
-            <ul>
-              <li>Shared workspaces for research communities</li>
-              <li>Publish and connect structured knowledge together</li>
-              <li>Curated, domain-specific collections</li>
-            </ul>
+            <p>Shared, structured workspaces for research communities.</p>
+            <div class="two-tables">
+              <table class="tinytable">
+                <caption>Types of Spaces</caption>
+                <thead>
+                  <tr><th></th><th>open-ended</th><th>time-limited</th></tr>
+                </thead>
+                <tbody>
+                  <tr><th>bringing units together</th><td>Alliance</td><td>Consortium</td></tr>
+                  <tr><th>formal vessel</th><td>Organization</td><td>Taskforce</td></tr>
+                  <tr><th>structuring into sub-units</th><td>Division</td><td>Taskunit</td></tr>
+                  <tr><th>getting work done</th><td>Group</td><td>Project</td></tr>
+                  <tr><th>coordination</th><td>Program</td><td>Initiative</td></tr>
+                  <tr><th>outreach</th><td>Outlet</td><td>Campaign</td></tr>
+                  <tr><th>exchange</th><td>Community</td><td>Event</td></tr>
+                </tbody>
+              </table>
+              <table class="tinytable">
+                <caption>Roles &amp; edit rights</caption>
+                <thead>
+                  <tr><th></th><th>core</th><th>structure</th><th>content</th><th>comment</th></tr>
+                </thead>
+                <tbody>
+                  <tr><th>admin</th><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr>
+                  <tr><th>maintainer</th><td></td><td>✓</td><td>✓</td><td>✓</td></tr>
+                  <tr><th>member</th><td></td><td></td><td>✓</td><td>✓</td></tr>
+                  <tr><th>observer</th><td></td><td></td><td>✓</td><td>✓</td></tr>
+                  <tr><th><em>anyone</em></th><td></td><td></td><td></td><td>✓</td></tr>
+                </tbody>
+              </table>
+            </div>
           </div>
         </section>
         <section class="slide" id="thank-you" inlist="" rel="schema:hasPart" resource="#thank-you" typeof="bibo:Slide">
@@ -118,6 +200,7 @@
               <li><img class="np-icon" src="img/nanopub-icon.png" /> <a href="https://nanopub.net/">nanopub.net</a></li>
               <li><a href="https://nanodash.knowledgepixels.com/">nanodash.knowledgepixels.com</a></li>
             </ul>
+            <p>Tobias Kuhn · <a href="mailto:tobias@knowledgepixels.com">tobias@knowledgepixels.com</a> · <a href="https://mastodon.social/@tkuhn" rel="me">@tkuhn@mastodon.social</a></p>
           </div>
         </section>
       </article>
