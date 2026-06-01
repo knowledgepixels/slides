@@ -1,0 +1,202 @@
+/**
+ * Knowledge Pixels style for dokieli / shower slides.
+ * Fonts and colors mirror the reveal.js kpxl theme used in the other decks.
+ */
+
+@font-face {
+  font-family: "Inter";
+  src: url("../_common/reveal-4.4.0/dist/theme/fonts/inter/Inter-Light.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../_common/reveal-4.4.0/dist/theme/fonts/inter/Inter-Medium.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Martian";
+  src: url("../_common/reveal-4.4.0/dist/theme/fonts/martian/MartianMono-StdLt.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Martian";
+  src: url("../_common/reveal-4.4.0/dist/theme/fonts/martian/MartianMonoKP-Regular.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+:root {
+  --kpxl-main-font: Inter, Helvetica, sans-serif;
+  --kpxl-heading-font: Martian, monospace;
+  --kpxl-code-font: Martian, monospace;
+  --kpxl-color: #222;
+  --kpxl-background: #fff;
+  --kpxl-link-color: #db0b5b;
+  --kpxl-link-color-hover: #330315;
+  --kpxl-em-color: #db0b5b;
+  --kpxl-code-color: #4f85ba;
+}
+
+/* Slide surface */
+.shower .slide,
+.shower .slide:after {
+  background: var(--kpxl-background);
+}
+
+.shower .slide {
+  font-family: var(--kpxl-main-font);
+  color: var(--kpxl-color);
+  font-weight: normal;
+  line-height: 1.3;
+}
+
+/* Headings */
+.shower .slide h1,
+.shower .slide h2,
+.shower .slide h3,
+.shower .slide h4 {
+  font-family: var(--kpxl-heading-font);
+  font-weight: 600;
+  color: var(--kpxl-color);
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+/* Smaller slide titles */
+.shower .slide h2 {
+  font-size: 1.05em;
+  margin-bottom: 0.6em;
+}
+
+/* Links */
+.shower .slide a,
+.shower .slide a:link,
+.shower .slide a:visited {
+  color: var(--kpxl-link-color);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+.shower .slide a:hover {
+  color: var(--kpxl-link-color-hover);
+}
+
+/* Emphasis is used for highlighting, like in the reveal decks */
+.shower .slide em {
+  color: var(--kpxl-em-color);
+  font-style: normal;
+}
+
+.shower .slide strong,
+.shower .slide b {
+  font-weight: bold;
+}
+
+/* Code */
+.shower .slide code,
+.shower .slide pre {
+  font-family: var(--kpxl-code-font);
+}
+.shower .slide code {
+  color: var(--kpxl-code-color);
+}
+.shower .slide pre code {
+  color: inherit;
+}
+
+/* Lists: comfortable spacing */
+.shower .slide ul,
+.shower .slide ol {
+  text-align: left;
+}
+
+/* The title (cover) slide */
+.shower .slide.cover h2 {
+  font-size: 1.6em;
+}
+
+/* Nanopub icon used inline in headings */
+img.np-icon {
+  height: 1em;
+  vertical-align: -0.15em;
+  margin-right: 0.25em;
+}
+
+/* Constrain the description column so figures fit a known box */
+.shower .slide > div[property="schema:description"] {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  max-height: 380px;
+  overflow: hidden;
+}
+
+/* Figures: scale to fit, never overflow the slide */
+.shower .slide img.fig {
+  flex: 0 1 auto;
+  min-height: 0;
+  min-width: 0;
+  max-width: 80%;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin: 0.3em auto;
+}
+
+/* Figure-only slides get more vertical room */
+.shower .slide.figure-only > div[property="schema:description"] {
+  max-height: 440px;
+  height: 440px;
+}
+.shower .slide.figure-only img.fig {
+  flex: 1 1 auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* A wide logo used in place of a heading (e.g. Nanodash) */
+.shower .slide h2 img.titlelogo {
+  height: 1.6em;
+  vertical-align: middle;
+}
+
+/* Centered caption / link */
+.shower .slide p.center {
+  text-align: center;
+}
+
+/* Centered standalone logo (e.g. Spaces) */
+.shower .slide img.logo {
+  display: block;
+  margin: 0.3em auto;
+  max-height: 170px;
+}
+
+/* Small logo pinned to the bottom of a slide (e.g. title slide) */
+.shower .slide img.footerlogo {
+  position: absolute;
+  bottom: 30px;
+  right: 40px;
+  height: 50px;
+  width: auto;
+  margin: 0;
+}
+
+.shower .slide ul.brands {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.shower .slide ul.brands li {
+  font-weight: 600;
+  margin: 0;
+}

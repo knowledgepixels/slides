@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Nanopublications: Small Package, Big FAIR Impact — Slides</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link href="https://dokie.li/media/css/basic.css" media="all" rel="stylesheet" title="Basic" />
+    <link href="https://dokie.li/media/css/dokieli.css" media="all" rel="stylesheet" />
+    <link href="kpxl.css" media="all" rel="stylesheet" />
+    <script src="https://dokie.li/scripts/dokieli.js"></script>
+  </head>
+  <body about="" class="shower list" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns# rdfs: http://www.w3.org/2000/01/rdf-schema# owl: http://www.w3.org/2002/07/owl# xsd: http://www.w3.org/2001/XMLSchema# dcterms: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ schema: http://schema.org/ prov: http://www.w3.org/ns/prov# bibo: http://purl.org/ontology/bibo/ cito: http://purl.org/spar/cito/" typeof="schema:CreativeWork prov:Entity">
+    <main>
+      <article about="" typeof="schema:CreativeWork">
+        <header class="caption">
+          <h1 property="schema:name">Nanopublications: Small Package, Big FAIR Impact</h1>
+          <p>
+            <a about="" href="http://purl.org/ontology/bibo/Slideshow" rel="rdf:type">Slideshow</a>
+            by
+            <span about="" rel="schema:creator schema:author"><a about="#tk" href="https://orcid.org/0000-0002-1267-0234" property="schema:name" typeof="schema:Person">Tobias Kuhn</a></span>
+            (Knowledge Pixels / VU Amsterdam).
+          </p>
+          <p>FAIRagro Talk series — 1 June 2026, online. Press <kbd>F</kbd> for full-screen slide mode, <kbd>Esc</kbd> to return to outline.</p>
+        </header>
+
+        <section class="slide active" id="title" inlist="" rel="schema:hasPart" resource="#title" typeof="bibo:Slide">
+          <h2 property="schema:name"><img class="np-icon" src="img/nanopub-icon.png" /> Nanopublications: Small Package, Big FAIR Impact</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p>Tobias Kuhn</p>
+            <p>Knowledge Pixels · VU Amsterdam</p>
+            <p><em>FAIRagro Talk</em> · 1 June 2026</p>
+          </div>
+          <img class="footerlogo" src="img/knowledge-pixels-logo.svg" alt="Knowledge Pixels" />
+        </section>
+
+        <section class="slide" id="takeaway" inlist="" rel="schema:hasPart" resource="#takeaway" typeof="bibo:Slide">
+          <h2 property="schema:name">🎯 Takeaway</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <ul>
+              <li>Small package, big FAIR impact</li>
+              <li>Individual claims: <strong>findable, citable, trustworthy, reusable</strong></li>
+              <li>For humans and machines alike</li>
+              <li>Open, standards-based, running at pilot scale</li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="slide" id="what-are-nanopubs" inlist="" rel="schema:hasPart" resource="#what-are-nanopubs" typeof="bibo:Slide">
+          <h2 property="schema:name"><img class="np-icon" src="img/nanopub-icon.png" /> What are nanopublications?</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <img class="fig" src="img/nanopub.png" alt="The named graphs of a nanopublication" />
+            <ul>
+              <li>Smallest unit of attributable, structured knowledge</li>
+              <li>Three graphs: <strong>assertion</strong>, <strong>provenance</strong>, <strong>publication info</strong></li>
+              <li>RDF, content-addressed, digitally signed</li>
+              <li><a href="https://nanopub.net/">nanopub.net</a></li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="slide" id="motivation" inlist="" rel="schema:hasPart" resource="#motivation" typeof="bibo:Slide">
+          <h2 property="schema:name">🌾 Why this matters for FAIR</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <ul>
+              <li>Semantic Web stack is in place: RDF, SPARQL, Linked Data</li>
+              <li>...but knowledge stays locked in PDFs and silos</li>
+              <li>No simple way to publish a <em>single</em> citable claim</li>
+              <li>FAIR needs a small, universal building block</li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="slide" id="building-block-for-fdos" inlist="" rel="schema:hasPart" resource="#building-block-for-fdos" typeof="bibo:Slide">
+          <h2 property="schema:name">🧱 A building block for FAIR Digital Objects</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <ul>
+              <li><strong>F</strong> — unique, persistent identifiers (Trusty URIs)</li>
+              <li><strong>A</strong> — retrievable from an open, decentralized network</li>
+              <li><strong>I</strong> — self-describing RDF, shared vocabularies</li>
+              <li><strong>R</strong> — provenance, license, signature travel with the claim</li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="slide figure-only" id="architecture" inlist="" rel="schema:hasPart" resource="#architecture" typeof="bibo:Slide">
+          <h2 property="schema:name">🏛️ The ecosystem at a glance</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <img class="fig" src="img/nanopub-architecture.svg" alt="High-level architecture of the nanopublication ecosystem" />
+          </div>
+        </section>
+
+        <section class="slide" id="ecosystem" inlist="" rel="schema:hasPart" resource="#ecosystem" typeof="bibo:Slide">
+          <h2 property="schema:name">🌐 A decentralized network of services</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <img class="fig" src="img/monitor.png" alt="Nanopub Monitor: live map of nanopublication servers worldwide" />
+            <p class="center"><a href="https://monitor.knowledgepixels.com/">monitor.knowledgepixels.com</a></p>
+          </div>
+        </section>
+
+        <section class="slide" id="nanodash" inlist="" rel="schema:hasPart" resource="#nanodash" typeof="bibo:Slide">
+          <h2 property="schema:name"><img class="titlelogo" src="img/nanodash.png" alt="Nanodash" /></h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <ul>
+              <li><em>Browse, search, and publish</em> nanopublications</li>
+              <li>Template-based forms — no RDF expertise required</li>
+              <li>Connects to the network — nothing to install</li>
+              <li><a href="https://nanodash.knowledgepixels.com/">nanodash.knowledgepixels.com</a></li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="slide" id="spaces" inlist="" rel="schema:hasPart" resource="#spaces" typeof="bibo:Slide">
+          <h2 property="schema:name"><img class="np-icon" src="img/spaces-logo.png" alt="" /> Spaces</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <ul>
+              <li>Shared workspaces for research communities</li>
+              <li>Publish and connect structured knowledge together</li>
+              <li>Curated, domain-specific collections</li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="slide" id="thank-you" inlist="" rel="schema:hasPart" resource="#thank-you" typeof="bibo:Slide">
+          <h2 property="schema:name">🙏 Thank you</h2>
+          <div datatype="rdf:HTML" property="schema:description">
+            <p>Questions?</p>
+            <ul class="brands">
+              <li><a href="https://knowledgepixels.com/">knowledgepixels.com</a></li>
+              <li><img class="np-icon" src="img/nanopub-icon.png" /> <a href="https://nanopub.net/">nanopub.net</a></li>
+              <li><a href="https://nanodash.knowledgepixels.com/">nanodash.knowledgepixels.com</a></li>
+            </ul>
+          </div>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
